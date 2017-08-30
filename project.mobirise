@@ -28,7 +28,7 @@
       ]
     },
     "versionFirst": "4.1.7",
-    "uniqCompNum": 68,
+    "uniqCompNum": 86,
     "versionPublish": "4.1.7"
   },
   "pages": {
@@ -51,7 +51,7 @@
             "showArrow": true,
             "contentAlign": "left",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/shanghai-p2qmhg8-2000x2000.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/intelligent-workforce-1600x1067.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#0058a2",
@@ -67,8 +67,8 @@
             "overlayOpacity": "0.2"
           },
           "title": "",
-          "text": "Intro with background video and color overlay. Text and buttons are aligned to right. Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD FOR WINDOWS</a> ",
+          "text": "Creating intelligent Workforce",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"TrainingOffering.html\" data-toolbar=\"-mbrBtnMove\">Our Specialised&nbsp;courses</a> ",
           "_tags": [
             "Theme"
           ],
@@ -84,7 +84,10 @@
               "color": "#2e2e2e"
             },
             ".mbr-section-lead": {
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "text-align": "left"
             }
           }
         },
@@ -99,15 +102,15 @@
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
             },
             ".navbar-toggler": {
-              "color": "#ffffff"
+              "color": "#fac51c"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#ffffff"
+              "background-color": "#fac51c"
             },
             ".link, .dropdown-item": {
-              "color": "#ffffff",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
-              "font-family": "'Lora', serif"
+              "color": "#fac51c",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "font-family": "'Roboto', sans-serif"
             },
             ".link": {
               "font-size": "0.85rem"
@@ -128,7 +131,7 @@
               "background": "#0058a2"
             },
             ".bg-color.transparent .link": {
-              "color": "#ffffff",
+              "color": "#fac51c",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -143,7 +146,7 @@
           },
           "_params": {
             "logo": true,
-            "showBrand": true,
+            "showBrand": false,
             "hideButtons": false,
             "sticky": true,
             "collapsed": true,
@@ -151,21 +154,21 @@
             "bgColor": "#0058a2",
             "fontSize": "0.85",
             "fontName": {
-              "name": "Lora",
-              "url": "https://fonts.googleapis.com/css?family=Lora:400,700",
-              "css": "'Lora', serif"
+              "name": "Roboto",
+              "url": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "css": "'Roboto', sans-serif"
             },
-            "fontColor": "#ffffff",
+            "fontColor": "#fac51c",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"page1.html\" aria-expanded=\"false\" target=\"_blank\">AI &nbsp;COURSES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\" target=\"_blank\">Artificial Intelligence</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">IBM Watson</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">Python</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\">Machine Learning and Deep learning<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\">Data Science<br></a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page13.html\">CORPORATE TRAINING</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page8.html\">TESTIMONIALS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Our Trainers.html\">OUR TRAINERS&nbsp;</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page9.html\">GALLERY</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page10.html\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"page11.html\"><span class=\"mbri-edit mbr-iconfont mbr-iconfont-btn\"></span>REGISTER</a></li>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"TrainingOffering.html\" aria-expanded=\"false\" target=\"_blank\">AI &nbsp;COURSES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ArtificalIntelligence.html\" target=\"_blank\">Create Your Bot</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">Watson Specialist</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Python.html\">Python Programmer</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"MachineLearning.html\">ML Practitioner<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Datascience.html\">Data Science Specialist</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Cori.html\">CORPORATE TRAINING</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Testimonials.html\">TESTIMONIALS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Our Trainers.html\">OUR TRAINERS&nbsp;</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Gallery.html\">GALLERY</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page10.html\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning-outline btn-warning\" href=\"Register.html\"><span class=\"mbri-edit mbr-iconfont mbr-iconfont-btn\"></span>REGISTER</a></li>",
           "logo": {
             "image": {
               "active": true,
               "src": "@PROJECT_PATH@/assets/images/final-logo-blue-bg-227x128.jpg",
               "height": 128,
               "alt": "Mobirise",
-              "link": "A2I.ai",
+              "link": "index.html",
               "title": "",
               "linkInNewWindow": false
             },
@@ -175,7 +178,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"><br><br>Creating intelligent Workforce&nbsp;</a>",
+          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"><br><br><br></a>",
           "_tags": [
             "Theme"
           ],
@@ -207,8 +210,8 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/bank-852x480.jpg",
-                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/precision-engineering-pufucj2-2000x1317.jpg",
+                "active": true,
                 "showButtons": false,
                 "showText": true,
                 "showTitle": true,
@@ -222,7 +225,7 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/ai-henrik5000-istock-000037174148-large-423x350.png",
-                "active": true,
+                "active": false,
                 "showButtons": false,
                 "showText": true,
                 "showTitle": true,
@@ -251,7 +254,9 @@
               "color": "#ffffff"
             },
             "SPAN": {
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "font-family": "'Roboto Condensed', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700"
             }
           }
         },
@@ -268,7 +273,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Copyright (c) 2017 AI2U.",
+          "text": "Copyright (c) 2017 A2I.ai",
           "_tags": [
             "Theme"
           ],
@@ -287,7 +292,7 @@
       "settings": {
         "meta_descr": "Website Builder Description",
         "title": "Combo",
-        "order": 8
+        "order": 9
       },
       "components": [
         {
@@ -301,36 +306,36 @@
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
             },
             ".navbar-toggler": {
-              "color": "#2e2e2e"
+              "color": "#fac51c"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#2e2e2e"
+              "background-color": "#fac51c"
             },
             ".link, .dropdown-item": {
-              "color": "#2e2e2e",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
-              "font-family": "'Lora', serif"
+              "color": "#fac51c",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "font-family": "'Roboto', sans-serif"
             },
             ".link": {
-              "font-size": "0.8rem"
+              "font-size": "0.85rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.866rem"
+              "font-size": "0.921rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#b3b3b3"
+              "background": "#003c6f"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#c4c4c4!important"
+              "background": "#005093!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#cccccc"
+              "background": "#0058a2"
             },
             ".bg-color.transparent .link": {
-              "color": "#2e2e2e",
+              "color": "#fac51c",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -340,12 +345,12 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#ffffff!important"
+              "color": "#f36523!important"
             }
           },
           "_params": {
             "logo": true,
-            "showBrand": true,
+            "showBrand": false,
             "hideButtons": false,
             "sticky": true,
             "collapsed": true,
@@ -353,21 +358,21 @@
             "bgColor": "#0058a2",
             "fontSize": "0.85",
             "fontName": {
-              "name": "Lora",
-              "url": "https://fonts.googleapis.com/css?family=Lora:400,700",
-              "css": "'Lora', serif"
+              "name": "Roboto",
+              "url": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "css": "'Roboto', sans-serif"
             },
-            "fontColor": "#ffffff",
+            "fontColor": "#fac51c",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"page1.html\" aria-expanded=\"false\" target=\"_blank\">AI &nbsp;COURSES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\" target=\"_blank\">Artificial Intelligence</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">IBM Watson</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">Python</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\">Machine Learning and Deep learning<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\">Data Science<br></a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page13.html\">CORPORATE TRAINING</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page8.html\">TESTIMONIALS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Our Trainers.html\">OUR TRAINERS&nbsp;</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page9.html\">GALLERY</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page10.html\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"page11.html\"><span class=\"mbri-edit mbr-iconfont mbr-iconfont-btn\"></span>REGISTER</a></li>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"TrainingOffering.html\" aria-expanded=\"false\" target=\"_blank\">AI &nbsp;COURSES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ArtificalIntelligence.html\" target=\"_blank\">Create Your Bot</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">Watson Specialist</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Python.html\">Python Programmer</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"MachineLearning.html\">ML Practitioner<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Datascience.html\">Data Science Specialist</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Cori.html\">CORPORATE TRAINING</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Testimonials.html\">TESTIMONIALS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Our Trainers.html\">OUR TRAINERS&nbsp;</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Gallery.html\">GALLERY</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page10.html\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning-outline btn-warning\" href=\"Register.html\"><span class=\"mbri-edit mbr-iconfont mbr-iconfont-btn\"></span>REGISTER</a></li>",
           "logo": {
             "image": {
               "active": true,
               "src": "@PROJECT_PATH@/assets/images/final-logo-blue-bg-227x128.jpg",
               "height": 128,
               "alt": "Mobirise",
-              "link": "A2I.ai",
+              "link": "index.html",
               "title": "",
               "linkInNewWindow": false
             },
@@ -377,7 +382,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"><br><br>Creating intelligent Workforce&nbsp;</a>",
+          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"><br><br><br></a>",
           "_tags": [
             "Theme"
           ],
@@ -390,7 +395,7 @@
       "settings": {
         "meta_descr": "Website Maker Description",
         "title": "Register",
-        "order": 12
+        "order": 13
       },
       "components": [
         {
@@ -404,36 +409,36 @@
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
             },
             ".navbar-toggler": {
-              "color": "#2e2e2e"
+              "color": "#fac51c"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#2e2e2e"
+              "background-color": "#fac51c"
             },
             ".link, .dropdown-item": {
-              "color": "#2e2e2e",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
-              "font-family": "'Lora', serif"
+              "color": "#fac51c",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "font-family": "'Roboto', sans-serif"
             },
             ".link": {
-              "font-size": "0.8rem"
+              "font-size": "0.85rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.866rem"
+              "font-size": "0.921rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#b3b3b3"
+              "background": "#003c6f"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#c4c4c4!important"
+              "background": "#005093!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#cccccc"
+              "background": "#0058a2"
             },
             ".bg-color.transparent .link": {
-              "color": "#2e2e2e",
+              "color": "#fac51c",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -443,12 +448,12 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#ffffff!important"
+              "color": "#f36523!important"
             }
           },
           "_params": {
             "logo": true,
-            "showBrand": true,
+            "showBrand": false,
             "hideButtons": false,
             "sticky": true,
             "collapsed": true,
@@ -456,21 +461,21 @@
             "bgColor": "#0058a2",
             "fontSize": "0.85",
             "fontName": {
-              "name": "Lora",
-              "url": "https://fonts.googleapis.com/css?family=Lora:400,700",
-              "css": "'Lora', serif"
+              "name": "Roboto",
+              "url": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "css": "'Roboto', sans-serif"
             },
-            "fontColor": "#ffffff",
+            "fontColor": "#fac51c",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"page1.html\" aria-expanded=\"false\" target=\"_blank\">AI &nbsp;COURSES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\" target=\"_blank\">Artificial Intelligence</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">IBM Watson</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">Python</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\">Machine Learning and Deep learning<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\">Data Science<br></a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page13.html\">CORPORATE TRAINING</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page8.html\">TESTIMONIALS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Our Trainers.html\">OUR TRAINERS&nbsp;</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page9.html\">GALLERY</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page10.html\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"page11.html\"><span class=\"mbri-edit mbr-iconfont mbr-iconfont-btn\"></span>REGISTER</a></li>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"TrainingOffering.html\" aria-expanded=\"false\" target=\"_blank\">AI &nbsp;COURSES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ArtificalIntelligence.html\" target=\"_blank\">Create Your Bot</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">Watson Specialist</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Python.html\">Python Programmer</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"MachineLearning.html\">ML Practitioner<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Datascience.html\">Data Science Specialist</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Cori.html\">CORPORATE TRAINING</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Testimonials.html\">TESTIMONIALS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Our Trainers.html\">OUR TRAINERS&nbsp;</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Gallery.html\">GALLERY</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page10.html\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning-outline btn-warning\" href=\"Register.html\"><span class=\"mbri-edit mbr-iconfont mbr-iconfont-btn\"></span>REGISTER</a></li>",
           "logo": {
             "image": {
               "active": true,
               "src": "@PROJECT_PATH@/assets/images/final-logo-blue-bg-227x128.jpg",
               "height": 128,
               "alt": "Mobirise",
-              "link": "A2I.ai",
+              "link": "index.html",
               "title": "",
               "linkInNewWindow": false
             },
@@ -480,7 +485,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"><br><br>Creating intelligent Workforce&nbsp;</a>",
+          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"><br><br><br></a>",
           "_tags": [
             "Theme"
           ],
@@ -553,7 +558,7 @@
       "settings": {
         "meta_descr": "Web Site Creator Description",
         "title": "Contact Us",
-        "order": 11
+        "order": 12
       },
       "components": [
         {
@@ -567,36 +572,36 @@
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
             },
             ".navbar-toggler": {
-              "color": "#2e2e2e"
+              "color": "#fac51c"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#2e2e2e"
+              "background-color": "#fac51c"
             },
             ".link, .dropdown-item": {
-              "color": "#2e2e2e",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
-              "font-family": "'Lora', serif"
+              "color": "#fac51c",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "font-family": "'Roboto', sans-serif"
             },
             ".link": {
-              "font-size": "0.8rem"
+              "font-size": "0.85rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.866rem"
+              "font-size": "0.921rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#b3b3b3"
+              "background": "#003c6f"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#c4c4c4!important"
+              "background": "#005093!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#cccccc"
+              "background": "#0058a2"
             },
             ".bg-color.transparent .link": {
-              "color": "#2e2e2e",
+              "color": "#fac51c",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -606,12 +611,12 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#ffffff!important"
+              "color": "#f36523!important"
             }
           },
           "_params": {
             "logo": true,
-            "showBrand": true,
+            "showBrand": false,
             "hideButtons": false,
             "sticky": true,
             "collapsed": true,
@@ -619,21 +624,21 @@
             "bgColor": "#0058a2",
             "fontSize": "0.85",
             "fontName": {
-              "name": "Lora",
-              "url": "https://fonts.googleapis.com/css?family=Lora:400,700",
-              "css": "'Lora', serif"
+              "name": "Roboto",
+              "url": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "css": "'Roboto', sans-serif"
             },
-            "fontColor": "#ffffff",
+            "fontColor": "#fac51c",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"page1.html\" aria-expanded=\"false\" target=\"_blank\">AI &nbsp;COURSES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\" target=\"_blank\">Artificial Intelligence</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">IBM Watson</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">Python</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\">Machine Learning and Deep learning<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\">Data Science<br></a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page13.html\">CORPORATE TRAINING</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page8.html\">TESTIMONIALS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Our Trainers.html\">OUR TRAINERS&nbsp;</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page9.html\">GALLERY</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page10.html\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"page11.html\"><span class=\"mbri-edit mbr-iconfont mbr-iconfont-btn\"></span>REGISTER</a></li>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"TrainingOffering.html\" aria-expanded=\"false\" target=\"_blank\">AI &nbsp;COURSES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ArtificalIntelligence.html\" target=\"_blank\">Create Your Bot</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">Watson Specialist</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Python.html\">Python Programmer</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"MachineLearning.html\">ML Practitioner<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Datascience.html\">Data Science Specialist</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Cori.html\">CORPORATE TRAINING</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Testimonials.html\">TESTIMONIALS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Our Trainers.html\">OUR TRAINERS&nbsp;</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Gallery.html\">GALLERY</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page10.html\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning-outline btn-warning\" href=\"Register.html\"><span class=\"mbri-edit mbr-iconfont mbr-iconfont-btn\"></span>REGISTER</a></li>",
           "logo": {
             "image": {
               "active": true,
               "src": "@PROJECT_PATH@/assets/images/final-logo-blue-bg-227x128.jpg",
               "height": 128,
               "alt": "Mobirise",
-              "link": "A2I.ai",
+              "link": "index.html",
               "title": "",
               "linkInNewWindow": false
             },
@@ -643,7 +648,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"><br><br>Creating intelligent Workforce&nbsp;</a>",
+          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"><br><br><br></a>",
           "_tags": [
             "Theme"
           ],
@@ -660,7 +665,7 @@
             },
             "paddingTop": 4,
             "paddingBottom": "0",
-            "bgColor": "#2e2e2e"
+            "bgColor": "#0058a2"
           },
           "_tags": [
             "Theme"
@@ -676,14 +681,14 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#2e2e2e",
+            "bgColor": "#0058a2",
             "overlay": true,
             "overlayColor": "#3C3C3C",
             "overlayOpacity": 0.8
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/2-387x116.png",
+              "src": "@PROJECT_PATH@/assets/images/final-logo-blue-bg-227x128.jpg",
               "class": "card-img-top",
               "width": 265,
               "active": true,
@@ -727,12 +732,12 @@
           },
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Contact us</a>",
           "title1": "Categories",
-          "text1": "Creating Digital Workforce",
-          "text2": "+91 8884784884",
-          "text3": "A2I.ai<br>5th Cross Road\n<br>TG Layout, Ittamadu, Srinivasan Layout, Hosakerehalli\n<br>Bengaluru, Karnataka 560085",
-          "text4": "<a href=\"mailto:support@mobirise.com\">support@mobirise.com</a>",
-          "text5": "<li><a class=\"text-white\" href=\"#\">Business</a></li><li><a class=\"text-white\" href=\"#\">Design</a></li><li><a class=\"text-white\" href=\"#\">Real life</a></li><li><a class=\"text-white\" href=\"#\">Science</a></li><li><a class=\"text-white\" href=\"#\">Tech</a></li>",
-          "text6": "<strong>Contacts</strong><br>Email: support@mobirise.com<br>Phone:&nbsp;\t+91 8884784884<br>Fax: +1 (0) 000 0000 002<br><br><br><strong>Address</strong><br>&nbsp;A2I.ai\n<br>5th Cross Road \n<br>TG Layout, Ittamadu, Srinivasan Layout, Hosakerehalli \n<br>Bengaluru, Karnataka 560085<br>",
+          "text1": "Creating Intelligent Workforce",
+          "text2": "+91 8884784884<br>+91 7337772412",
+          "text3": "A2I.ai<br>5th Cross Road\n<br>TG Layout, Ittamadu,<br>Bengaluru, Karnataka 560085",
+          "text4": "reachus@a2i.ai",
+          "text5": "<li>Create Your Bot</li><li><a class=\"text-white\" href=\"#\">W</a>atson Specialist</li><li><a class=\"text-white\" href=\"#\">P</a>ython Programmer</li><li><a class=\"text-white\" href=\"#\">M</a>L Practitioner</li><li><a class=\"text-white\" href=\"#\">D</a>ata Science Specialist</li>",
+          "text6": "<p><strong>Contacts</strong><br>Email: reachus@a2i.ai<br>Phone:&nbsp;\t+91 8884784884<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;+91 7337772412<br><br><br><br><strong>Address</strong><br>&nbsp;A2I.ai\n<br>113, 5th Cross Road \n<br>TG Layout, Ittamadu,<br>Bengaluru, Karnataka 560085<br></p>",
           "form": {
             "title": "MESSAGE",
             "action": "anjan.kumar@a2i.ai",
@@ -765,7 +770,15 @@
             "Theme"
           ],
           "_name": "contacts3",
-          "_anchor": "contacts3-1k"
+          "_anchor": "contacts3-1k",
+          "_styles": {
+            "SPAN": {
+              "color": "#ffffff"
+            },
+            "LI": {
+              "color": "#ffffff"
+            }
+          }
         }
       ]
     },
@@ -773,7 +786,7 @@
       "settings": {
         "meta_descr": "Site Builder Description",
         "title": "Testimonials",
-        "order": 10
+        "order": 11
       },
       "components": [
         {
@@ -787,36 +800,36 @@
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
             },
             ".navbar-toggler": {
-              "color": "#2e2e2e"
+              "color": "#fac51c"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#2e2e2e"
+              "background-color": "#fac51c"
             },
             ".link, .dropdown-item": {
-              "color": "#2e2e2e",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
-              "font-family": "'Lora', serif"
+              "color": "#fac51c",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "font-family": "'Roboto', sans-serif"
             },
             ".link": {
-              "font-size": "0.8rem"
+              "font-size": "0.85rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.866rem"
+              "font-size": "0.921rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#b3b3b3"
+              "background": "#003c6f"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#c4c4c4!important"
+              "background": "#005093!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#cccccc"
+              "background": "#0058a2"
             },
             ".bg-color.transparent .link": {
-              "color": "#2e2e2e",
+              "color": "#fac51c",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -826,12 +839,12 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#ffffff!important"
+              "color": "#f36523!important"
             }
           },
           "_params": {
             "logo": true,
-            "showBrand": true,
+            "showBrand": false,
             "hideButtons": false,
             "sticky": true,
             "collapsed": true,
@@ -839,21 +852,21 @@
             "bgColor": "#0058a2",
             "fontSize": "0.85",
             "fontName": {
-              "name": "Lora",
-              "url": "https://fonts.googleapis.com/css?family=Lora:400,700",
-              "css": "'Lora', serif"
+              "name": "Roboto",
+              "url": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "css": "'Roboto', sans-serif"
             },
-            "fontColor": "#ffffff",
+            "fontColor": "#fac51c",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"page1.html\" aria-expanded=\"false\" target=\"_blank\">AI &nbsp;COURSES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\" target=\"_blank\">Artificial Intelligence</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">IBM Watson</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">Python</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\">Machine Learning and Deep learning<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\">Data Science<br></a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page13.html\">CORPORATE TRAINING</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page8.html\">TESTIMONIALS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Our Trainers.html\">OUR TRAINERS&nbsp;</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page9.html\">GALLERY</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page10.html\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"page11.html\"><span class=\"mbri-edit mbr-iconfont mbr-iconfont-btn\"></span>REGISTER</a></li>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"TrainingOffering.html\" aria-expanded=\"false\" target=\"_blank\">AI &nbsp;COURSES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ArtificalIntelligence.html\" target=\"_blank\">Create Your Bot</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">Watson Specialist</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Python.html\">Python Programmer</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"MachineLearning.html\">ML Practitioner<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Datascience.html\">Data Science Specialist</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Cori.html\">CORPORATE TRAINING</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Testimonials.html\">TESTIMONIALS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Our Trainers.html\">OUR TRAINERS&nbsp;</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Gallery.html\">GALLERY</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page10.html\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning-outline btn-warning\" href=\"Register.html\"><span class=\"mbri-edit mbr-iconfont mbr-iconfont-btn\"></span>REGISTER</a></li>",
           "logo": {
             "image": {
               "active": true,
               "src": "@PROJECT_PATH@/assets/images/final-logo-blue-bg-227x128.jpg",
               "height": 128,
               "alt": "Mobirise",
-              "link": "A2I.ai",
+              "link": "index.html",
               "title": "",
               "linkInNewWindow": false
             },
@@ -863,7 +876,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"><br><br>Creating intelligent Workforce&nbsp;</a>",
+          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"><br><br><br></a>",
           "_tags": [
             "Theme"
           ],
@@ -883,7 +896,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Copyright (c) 2017 AI2U.",
+          "text": "Copyright (c) 2017 A2I.ai",
           "_tags": [
             "Theme"
           ],
@@ -897,76 +910,151 @@
           }
         },
         {
-          "_inherit": "testimonials2",
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            }
+          },
           "_params": {
             "showTitle": true,
-            "showSubtitle": false,
-            "showImages": false,
-            "showName": true,
-            "showBio": false,
-            "count": 3,
+            "showText": false,
+            "showButton": false,
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": true,
-            "bgImage": "@THEME_PATH@/components/_images/sky.jpg",
+            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
             "parallax": true,
             "bgColorRadio": false,
-            "bgColor": "#fff",
+            "bgColor": "#F2F2F2",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
             "overlay": true,
             "overlayColor": "#222",
-            "overlayOpacity": 0.2
+            "overlayOpacity": 0.5
           },
+          "title": "TESTIMONIALS",
+          "text": "",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
           "_tags": [
             "Theme"
           ],
-          "title": "WHAT OUR FANTASTIC USERS SAY",
-          "subtitle": "Shape your future web project with sharp design and refine coded functions.",
-          "testimonial": [
-            {
-              "authorName": "Abanoub S.<br><br>",
-              "authorBio": "User",
-              "text": "<p>“its really very amazing app that makes me finish html page in 3 minutes ( that's usually takes more than 1 hours at least from me if i did it from scratch). i hope to have very big library and plugins for this APP thanks again for your nice application”</p>",
-              "media": {
-                "image": {
-                  "src": "@THEME_PATH@/components/_images/face3.jpg",
-                  "class": "img-circle",
-                  "height": 160,
-                  "width": 160,
-                  "active": true
-                }
-              }
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-2c"
+        },
+        {
+          "_params": {
+            "showImages": false,
+            "showTitles": true,
+            "showSubtitles": false,
+            "ShowTexts": true,
+            "showButtons": true,
+            "paddingTop": "1",
+            "paddingBottom": "4",
+            "columns": "4",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#0058a2",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            {
-              "authorName": "Suffian A.",
-              "authorBio": "User",
-              "text": "<p>“First of all hands off to you guys for your effort and nice, super tool. Good work mobirise team. We are expecting the new version soon with advance functionality with full bootstrap design. Great effort and super UI experience with easy drag & drop with no time design bootstrap builder in present web design world.”</p>",
-              "media": {
-                "image": {
-                  "src": "@THEME_PATH@/components/_images/face1.jpg",
-                  "class": "img-circle",
-                  "height": 160,
-                  "width": 160,
-                  "active": true
-                }
-              }
-            },
-            {
-              "authorName": "Jhollman C.",
-              "authorBio": "User",
-              "text": "<p>“At first view, looks like a nice innovative tool, i like the great focus and time that was given to the responsive design, i also like the simple and clear drag and drop features. Give me more control over the object's properties and ill be using this tool for more serious projects. Regards.”</p>",
-              "media": {
-                "image": {
-                  "src": "@THEME_PATH@/components/_images/face2.jpg",
-                  "class": "img-circle",
-                  "height": 160,
-                  "width": 160,
-                  "active": true
-                }
-              }
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media1": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/table.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
             }
+          },
+          "media2": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media3": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/coworkers.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media4": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media5": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media6": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title1": "",
+          "subtitle1": "",
+          "caption1": "Perfection is nothing more than complete adaptation to the environment\", said Somerset Maugham. <br>It is something I discovered as a part of the cognitive, adaptive Artificial Intelligence training at A2I.ai Technologies. It packages the current premise of AI and it's applications along with best practices for designing and developing robust bots. It also includes a brilliant deep dive into Machine Learning.&nbsp;<br>Prasanna Ram and Anjan Kumar's strategic and yet detailed hands-on approach made me AI skills, much sought after by IT companies and thus could switch my career path to AI. <br><br>",
+          "title2": "",
+          "subtitle2": "One of Bootstrap 4's big points",
+          "caption2": "I got a great sense of accomplishment when I created an end to end chatbot myself, integrating with Google and Telegram app. More importantly Placement Insights from the course helped me to face my Interviews more confidently and with Technology dimension. I am glad I registered at the right time and got placed in an MNC.<br><br>- Sanjaya M V - BMSIT - 7th Semester",
+          "title3": "",
+          "subtitle3": "Google has a highly exhaustive list of fonts",
+          "caption3": "Post completing my Engineering in Mechanical discipline, I was wondering what next ? . I could not decide myself whether I should go in Mechnical discipline or should I switch over. With lot of dilemma, I got registered myself to \" Create Your Bot\" course. Last 2 weeks has been full of learning and I am glad I am very close to \" Technology of Tomorrow\" now. I am sure I am heading in the right direction now.&nbsp;<br><br><br>Nithin R - 2017 Passed out",
+          "title4": "",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "Being a UX Developer since 10 years, I felt I am away from Technology. I set the expectation with trainers that I do not know T to Y in Technology. I was amazed to see myself getting to know Digitial Technologies and creating a Bot myself with \"Create Your Bot\" Course.&nbsp;<br><br>A highly recommend course to all professionals and freshers to stay relevant in today's job market.<br><br>- Santosh - &nbsp;Employed with Top IT Company",
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">15+ Experienced IT Professional</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Telecom Graduate</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Mechanical Graduate&nbsp;</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Experienced UX/UI Developer&nbsp;</a>",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "_tags": [
+            "Theme"
           ],
-          "_name": "testimonials4",
-          "_anchor": "testimonials4-1v"
+          "_name": "features3",
+          "_styles": {
+            "P": {
+              "text-align": "center",
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "color": "#ffffff",
+              "font-size": "14px"
+            },
+            "H4": {
+              "color": "#ffffff"
+            }
+          },
+          "_anchor": "features3-2d"
         }
       ]
     },
@@ -974,7 +1062,7 @@
       "settings": {
         "meta_descr": "Web Site Maker Description",
         "title": "Gallery",
-        "order": 9
+        "order": 10
       },
       "components": [
         {
@@ -988,36 +1076,36 @@
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
             },
             ".navbar-toggler": {
-              "color": "#2e2e2e"
+              "color": "#fac51c"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#2e2e2e"
+              "background-color": "#fac51c"
             },
             ".link, .dropdown-item": {
-              "color": "#2e2e2e",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
-              "font-family": "'Lora', serif"
+              "color": "#fac51c",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "font-family": "'Roboto', sans-serif"
             },
             ".link": {
-              "font-size": "0.8rem"
+              "font-size": "0.85rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.866rem"
+              "font-size": "0.921rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#b3b3b3"
+              "background": "#003c6f"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#c4c4c4!important"
+              "background": "#005093!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#cccccc"
+              "background": "#0058a2"
             },
             ".bg-color.transparent .link": {
-              "color": "#2e2e2e",
+              "color": "#fac51c",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -1027,12 +1115,12 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#ffffff!important"
+              "color": "#f36523!important"
             }
           },
           "_params": {
             "logo": true,
-            "showBrand": true,
+            "showBrand": false,
             "hideButtons": false,
             "sticky": true,
             "collapsed": true,
@@ -1040,21 +1128,21 @@
             "bgColor": "#0058a2",
             "fontSize": "0.85",
             "fontName": {
-              "name": "Lora",
-              "url": "https://fonts.googleapis.com/css?family=Lora:400,700",
-              "css": "'Lora', serif"
+              "name": "Roboto",
+              "url": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "css": "'Roboto', sans-serif"
             },
-            "fontColor": "#ffffff",
+            "fontColor": "#fac51c",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"page1.html\" aria-expanded=\"false\" target=\"_blank\">AI &nbsp;COURSES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\" target=\"_blank\">Artificial Intelligence</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">IBM Watson</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">Python</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\">Machine Learning and Deep learning<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\">Data Science<br></a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page13.html\">CORPORATE TRAINING</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page8.html\">TESTIMONIALS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Our Trainers.html\">OUR TRAINERS&nbsp;</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page9.html\">GALLERY</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page10.html\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"page11.html\"><span class=\"mbri-edit mbr-iconfont mbr-iconfont-btn\"></span>REGISTER</a></li>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"TrainingOffering.html\" aria-expanded=\"false\" target=\"_blank\">AI &nbsp;COURSES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ArtificalIntelligence.html\" target=\"_blank\">Create Your Bot</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">Watson Specialist</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Python.html\">Python Programmer</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"MachineLearning.html\">ML Practitioner<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Datascience.html\">Data Science Specialist</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Cori.html\">CORPORATE TRAINING</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Testimonials.html\">TESTIMONIALS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Our Trainers.html\">OUR TRAINERS&nbsp;</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Gallery.html\">GALLERY</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page10.html\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning-outline btn-warning\" href=\"Register.html\"><span class=\"mbri-edit mbr-iconfont mbr-iconfont-btn\"></span>REGISTER</a></li>",
           "logo": {
             "image": {
               "active": true,
               "src": "@PROJECT_PATH@/assets/images/final-logo-blue-bg-227x128.jpg",
               "height": 128,
               "alt": "Mobirise",
-              "link": "A2I.ai",
+              "link": "index.html",
               "title": "",
               "linkInNewWindow": false
             },
@@ -1064,7 +1152,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"><br><br>Creating intelligent Workforce&nbsp;</a>",
+          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"><br><br><br></a>",
           "_tags": [
             "Theme"
           ],
@@ -1123,7 +1211,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Copyright (c) 2017 AI2U.",
+          "text": "Copyright (c) 2017 A2I.ai",
           "_tags": [
             "Theme"
           ],
@@ -1142,7 +1230,7 @@
       "settings": {
         "meta_descr": "Web Creator Description",
         "title": "DS",
-        "order": 7
+        "order": 8
       },
       "components": [
         {
@@ -1156,36 +1244,36 @@
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
             },
             ".navbar-toggler": {
-              "color": "#2e2e2e"
+              "color": "#fac51c"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#2e2e2e"
+              "background-color": "#fac51c"
             },
             ".link, .dropdown-item": {
-              "color": "#2e2e2e",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
-              "font-family": "'Lora', serif"
+              "color": "#fac51c",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "font-family": "'Roboto', sans-serif"
             },
             ".link": {
-              "font-size": "0.8rem"
+              "font-size": "0.85rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.866rem"
+              "font-size": "0.921rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#b3b3b3"
+              "background": "#003c6f"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#c4c4c4!important"
+              "background": "#005093!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#cccccc"
+              "background": "#0058a2"
             },
             ".bg-color.transparent .link": {
-              "color": "#2e2e2e",
+              "color": "#fac51c",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -1195,12 +1283,12 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#ffffff!important"
+              "color": "#f36523!important"
             }
           },
           "_params": {
             "logo": true,
-            "showBrand": true,
+            "showBrand": false,
             "hideButtons": false,
             "sticky": true,
             "collapsed": true,
@@ -1208,21 +1296,21 @@
             "bgColor": "#0058a2",
             "fontSize": "0.85",
             "fontName": {
-              "name": "Lora",
-              "url": "https://fonts.googleapis.com/css?family=Lora:400,700",
-              "css": "'Lora', serif"
+              "name": "Roboto",
+              "url": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "css": "'Roboto', sans-serif"
             },
-            "fontColor": "#ffffff",
+            "fontColor": "#fac51c",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"page1.html\" aria-expanded=\"false\" target=\"_blank\">AI &nbsp;COURSES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\" target=\"_blank\">Artificial Intelligence</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">IBM Watson</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">Python</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\">Machine Learning and Deep learning<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\">Data Science<br></a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page13.html\">CORPORATE TRAINING</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page8.html\">TESTIMONIALS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Our Trainers.html\">OUR TRAINERS&nbsp;</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page9.html\">GALLERY</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page10.html\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"page11.html\"><span class=\"mbri-edit mbr-iconfont mbr-iconfont-btn\"></span>REGISTER</a></li>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"TrainingOffering.html\" aria-expanded=\"false\" target=\"_blank\">AI &nbsp;COURSES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ArtificalIntelligence.html\" target=\"_blank\">Create Your Bot</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">Watson Specialist</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Python.html\">Python Programmer</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"MachineLearning.html\">ML Practitioner<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Datascience.html\">Data Science Specialist</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Cori.html\">CORPORATE TRAINING</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Testimonials.html\">TESTIMONIALS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Our Trainers.html\">OUR TRAINERS&nbsp;</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Gallery.html\">GALLERY</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page10.html\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning-outline btn-warning\" href=\"Register.html\"><span class=\"mbri-edit mbr-iconfont mbr-iconfont-btn\"></span>REGISTER</a></li>",
           "logo": {
             "image": {
               "active": true,
               "src": "@PROJECT_PATH@/assets/images/final-logo-blue-bg-227x128.jpg",
               "height": 128,
               "alt": "Mobirise",
-              "link": "A2I.ai",
+              "link": "index.html",
               "title": "",
               "linkInNewWindow": false
             },
@@ -1232,7 +1320,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"><br><br>Creating intelligent Workforce&nbsp;</a>",
+          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"><br><br><br></a>",
           "_tags": [
             "Theme"
           ],
@@ -1320,7 +1408,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Copyright (c) 2017 AI2U.",
+          "text": "Copyright (c) 2017 A2I.ai",
           "_tags": [
             "Theme"
           ],
@@ -1339,7 +1427,7 @@
       "settings": {
         "meta_descr": "Web Page Maker Description",
         "title": "ML",
-        "order": 6
+        "order": 7
       },
       "components": [
         {
@@ -1353,36 +1441,36 @@
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
             },
             ".navbar-toggler": {
-              "color": "#2e2e2e"
+              "color": "#fac51c"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#2e2e2e"
+              "background-color": "#fac51c"
             },
             ".link, .dropdown-item": {
-              "color": "#2e2e2e",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
-              "font-family": "'Lora', serif"
+              "color": "#fac51c",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "font-family": "'Roboto', sans-serif"
             },
             ".link": {
-              "font-size": "0.8rem"
+              "font-size": "0.85rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.866rem"
+              "font-size": "0.921rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#b3b3b3"
+              "background": "#003c6f"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#c4c4c4!important"
+              "background": "#005093!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#cccccc"
+              "background": "#0058a2"
             },
             ".bg-color.transparent .link": {
-              "color": "#2e2e2e",
+              "color": "#fac51c",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -1392,12 +1480,12 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#ffffff!important"
+              "color": "#f36523!important"
             }
           },
           "_params": {
             "logo": true,
-            "showBrand": true,
+            "showBrand": false,
             "hideButtons": false,
             "sticky": true,
             "collapsed": true,
@@ -1405,21 +1493,21 @@
             "bgColor": "#0058a2",
             "fontSize": "0.85",
             "fontName": {
-              "name": "Lora",
-              "url": "https://fonts.googleapis.com/css?family=Lora:400,700",
-              "css": "'Lora', serif"
+              "name": "Roboto",
+              "url": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "css": "'Roboto', sans-serif"
             },
-            "fontColor": "#ffffff",
+            "fontColor": "#fac51c",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"page1.html\" aria-expanded=\"false\" target=\"_blank\">AI &nbsp;COURSES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\" target=\"_blank\">Artificial Intelligence</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">IBM Watson</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">Python</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\">Machine Learning and Deep learning<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\">Data Science<br></a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page13.html\">CORPORATE TRAINING</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page8.html\">TESTIMONIALS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Our Trainers.html\">OUR TRAINERS&nbsp;</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page9.html\">GALLERY</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page10.html\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"page11.html\"><span class=\"mbri-edit mbr-iconfont mbr-iconfont-btn\"></span>REGISTER</a></li>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"TrainingOffering.html\" aria-expanded=\"false\" target=\"_blank\">AI &nbsp;COURSES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ArtificalIntelligence.html\" target=\"_blank\">Create Your Bot</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">Watson Specialist</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Python.html\">Python Programmer</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"MachineLearning.html\">ML Practitioner<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Datascience.html\">Data Science Specialist</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Cori.html\">CORPORATE TRAINING</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Testimonials.html\">TESTIMONIALS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Our Trainers.html\">OUR TRAINERS&nbsp;</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Gallery.html\">GALLERY</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page10.html\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning-outline btn-warning\" href=\"Register.html\"><span class=\"mbri-edit mbr-iconfont mbr-iconfont-btn\"></span>REGISTER</a></li>",
           "logo": {
             "image": {
               "active": true,
               "src": "@PROJECT_PATH@/assets/images/final-logo-blue-bg-227x128.jpg",
               "height": 128,
               "alt": "Mobirise",
-              "link": "A2I.ai",
+              "link": "index.html",
               "title": "",
               "linkInNewWindow": false
             },
@@ -1429,7 +1517,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"><br><br>Creating intelligent Workforce&nbsp;</a>",
+          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"><br><br><br></a>",
           "_tags": [
             "Theme"
           ],
@@ -1478,7 +1566,7 @@
           },
           "text1": "Machine learning is a type of artificial intelligence (AI) that enables computer applications to predict outcomes without being explicitly programmed. It is based on the idea that Machines should be able to learn and adapt through experience. Machine learning algorithms are often categorized as being supervised or unsupervised.\n<div>\n</div><div><br></div>",
           "text2": "\n<div><b>Course duration:</b> 35 hours Classroom session + 40 hours of lab access with assistance\n</div><div>\n</div><div><br></div><div><b>Lunch and evening tea will be served\n</b></div><div>\n</div><div><br></div><div><b>Course delivery:</b> Classroom session on concepts supported by in-depth hands-on sessions with 1 instructor for every 3 students\n</div><div><br></div>",
-          "text3": "<b>The course includes:\r</b><div><b>\r</b></div><div>- Introduction to Machine Learning. why Machine Learning and Why Now?\r</div><div>- Statistical Modeling and Forecasting Approach in Machine Learning\r</div><div>- Instance based and Rule based approach towards Supervised in Machine Learning\r</div><div>- Support Vector Machine and Kernel Tricks in SVM in ML using Python\r</div><div>- Real time implementation of Unsupervised Learning with Python\r</div><div>\r</div><div>- Dimensionality Reduction and Model Selection\r</div><div><br></div>",
+          "text3": "<b>The course includes:\n</b><div><b>\n</b></div><div>- Introduction to Machine Learning. why Machine Learning and Why Now?\n</div><div>- Statistical Modeling and Forecasting Approach in Machine Learning\n</div><div>- Instance based and Rule based approach towards Supervised in Machine Learning\n</div><div>- Support Vector Machine and Kernel Tricks in SVM in ML using Python\n</div><div>- Real time implementation of Unsupervised Learning with Python\n</div><div>\n</div><div>- Dimensionality Reduction and Model Selection\n</div><div><br></div>",
           "_tags": [
             "Theme"
           ],
@@ -1517,7 +1605,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Copyright (c) 2017 AI2U.",
+          "text": "Copyright (c) 2017 A2I.ai",
           "_tags": [
             "Theme"
           ],
@@ -1536,7 +1624,7 @@
       "settings": {
         "meta_descr": "Web Maker Description",
         "title": "Python",
-        "order": 5
+        "order": 6
       },
       "components": [
         {
@@ -1550,36 +1638,36 @@
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
             },
             ".navbar-toggler": {
-              "color": "#2e2e2e"
+              "color": "#fac51c"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#2e2e2e"
+              "background-color": "#fac51c"
             },
             ".link, .dropdown-item": {
-              "color": "#2e2e2e",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
-              "font-family": "'Lora', serif"
+              "color": "#fac51c",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "font-family": "'Roboto', sans-serif"
             },
             ".link": {
-              "font-size": "0.8rem"
+              "font-size": "0.85rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.866rem"
+              "font-size": "0.921rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#b3b3b3"
+              "background": "#003c6f"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#c4c4c4!important"
+              "background": "#005093!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#cccccc"
+              "background": "#0058a2"
             },
             ".bg-color.transparent .link": {
-              "color": "#2e2e2e",
+              "color": "#fac51c",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -1589,12 +1677,12 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#ffffff!important"
+              "color": "#f36523!important"
             }
           },
           "_params": {
             "logo": true,
-            "showBrand": true,
+            "showBrand": false,
             "hideButtons": false,
             "sticky": true,
             "collapsed": true,
@@ -1602,21 +1690,21 @@
             "bgColor": "#0058a2",
             "fontSize": "0.85",
             "fontName": {
-              "name": "Lora",
-              "url": "https://fonts.googleapis.com/css?family=Lora:400,700",
-              "css": "'Lora', serif"
+              "name": "Roboto",
+              "url": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "css": "'Roboto', sans-serif"
             },
-            "fontColor": "#ffffff",
+            "fontColor": "#fac51c",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"page1.html\" aria-expanded=\"false\" target=\"_blank\">AI &nbsp;COURSES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\" target=\"_blank\">Artificial Intelligence</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">IBM Watson</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">Python</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\">Machine Learning and Deep learning<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\">Data Science<br></a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page13.html\">CORPORATE TRAINING</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page8.html\">TESTIMONIALS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Our Trainers.html\">OUR TRAINERS&nbsp;</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page9.html\">GALLERY</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page10.html\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"page11.html\"><span class=\"mbri-edit mbr-iconfont mbr-iconfont-btn\"></span>REGISTER</a></li>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"TrainingOffering.html\" aria-expanded=\"false\" target=\"_blank\">AI &nbsp;COURSES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ArtificalIntelligence.html\" target=\"_blank\">Create Your Bot</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">Watson Specialist</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Python.html\">Python Programmer</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"MachineLearning.html\">ML Practitioner<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Datascience.html\">Data Science Specialist</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Cori.html\">CORPORATE TRAINING</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Testimonials.html\">TESTIMONIALS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Our Trainers.html\">OUR TRAINERS&nbsp;</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Gallery.html\">GALLERY</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page10.html\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning-outline btn-warning\" href=\"Register.html\"><span class=\"mbri-edit mbr-iconfont mbr-iconfont-btn\"></span>REGISTER</a></li>",
           "logo": {
             "image": {
               "active": true,
               "src": "@PROJECT_PATH@/assets/images/final-logo-blue-bg-227x128.jpg",
               "height": 128,
               "alt": "Mobirise",
-              "link": "A2I.ai",
+              "link": "index.html",
               "title": "",
               "linkInNewWindow": false
             },
@@ -1626,7 +1714,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"><br><br>Creating intelligent Workforce&nbsp;</a>",
+          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"><br><br><br></a>",
           "_tags": [
             "Theme"
           ],
@@ -1717,7 +1805,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Copyright (c) 2017 AI2U.",
+          "text": "Copyright (c) 2017 A2I.ai",
           "_tags": [
             "Theme"
           ],
@@ -1736,7 +1824,7 @@
       "settings": {
         "meta_descr": "Website Generator Description",
         "title": "AI",
-        "order": 4
+        "order": 5
       },
       "components": [
         {
@@ -1750,36 +1838,36 @@
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
             },
             ".navbar-toggler": {
-              "color": "#ffffff"
+              "color": "#fac51c"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#ffffff"
+              "background-color": "#fac51c"
             },
             ".link, .dropdown-item": {
-              "color": "#ffffff",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
-              "font-family": "'Lora', serif"
+              "color": "#fac51c",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "font-family": "'Roboto', sans-serif"
             },
             ".link": {
-              "font-size": "0.75rem"
+              "font-size": "0.85rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.812rem"
+              "font-size": "0.921rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#000000"
+              "background": "#003c6f"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#000000!important"
+              "background": "#005093!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#000000"
+              "background": "#0058a2"
             },
             ".bg-color.transparent .link": {
-              "color": "#ffffff",
+              "color": "#fac51c",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -1789,12 +1877,12 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#ffffff!important"
+              "color": "#f36523!important"
             }
           },
           "_params": {
             "logo": true,
-            "showBrand": true,
+            "showBrand": false,
             "hideButtons": false,
             "sticky": true,
             "collapsed": true,
@@ -1802,21 +1890,21 @@
             "bgColor": "#0058a2",
             "fontSize": "0.85",
             "fontName": {
-              "name": "Lora",
-              "url": "https://fonts.googleapis.com/css?family=Lora:400,700",
-              "css": "'Lora', serif"
+              "name": "Roboto",
+              "url": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "css": "'Roboto', sans-serif"
             },
-            "fontColor": "#ffffff",
+            "fontColor": "#fac51c",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"page1.html\" aria-expanded=\"false\" target=\"_blank\">AI &nbsp;COURSES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\" target=\"_blank\">Artificial Intelligence</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">IBM Watson</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">Python</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\">Machine Learning and Deep learning<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\">Data Science<br></a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page13.html\">CORPORATE TRAINING</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page8.html\">TESTIMONIALS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Our Trainers.html\">OUR TRAINERS&nbsp;</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page9.html\">GALLERY</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page10.html\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"page11.html\"><span class=\"mbri-edit mbr-iconfont mbr-iconfont-btn\"></span>REGISTER</a></li>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"TrainingOffering.html\" aria-expanded=\"false\" target=\"_blank\">AI &nbsp;COURSES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ArtificalIntelligence.html\" target=\"_blank\">Create Your Bot</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">Watson Specialist</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Python.html\">Python Programmer</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"MachineLearning.html\">ML Practitioner<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Datascience.html\">Data Science Specialist</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Cori.html\">CORPORATE TRAINING</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Testimonials.html\">TESTIMONIALS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Our Trainers.html\">OUR TRAINERS&nbsp;</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Gallery.html\">GALLERY</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page10.html\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning-outline btn-warning\" href=\"Register.html\"><span class=\"mbri-edit mbr-iconfont mbr-iconfont-btn\"></span>REGISTER</a></li>",
           "logo": {
             "image": {
               "active": true,
               "src": "@PROJECT_PATH@/assets/images/final-logo-blue-bg-227x128.jpg",
               "height": 128,
               "alt": "Mobirise",
-              "link": "A2I.ai",
+              "link": "index.html",
               "title": "",
               "linkInNewWindow": false
             },
@@ -1826,7 +1914,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"><br><br>Creating intelligent Workforce&nbsp;</a>",
+          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"><br><br><br></a>",
           "_tags": [
             "Theme"
           ],
@@ -1910,7 +1998,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Copyright (c) 2017 AI2U.",
+          "text": "Copyright (c) 2017 A2I.ai",
           "_tags": [
             "Theme"
           ],
@@ -1941,6 +2029,41 @@
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
             }
           }
+        },
+        {
+          "_inherit": "msg-box8",
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#000"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButton": true,
+            "paddingTop": "3",
+            "paddingBottom": "3",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#F2F2F2",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "MODERN STYLES",
+          "text": "<p>Mobirise has provided for website developers a growing library of modern blocks which can be used either partially or in full for every website developed through the builder.</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">SEE ALL TEMPLATES</a> <a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">SEE ALL TEMPLATES</a>",
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-1w"
         }
       ]
     },
@@ -1948,7 +2071,7 @@
       "settings": {
         "meta_descr": "Website Creator Description",
         "title": "Training Offering",
-        "order": 3
+        "order": 4
       },
       "components": [
         {
@@ -1999,7 +2122,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#cccccc",
+            "bgColor": "#0058a2",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -2072,22 +2195,22 @@
               "active": true
             }
           },
-          "title1": "ARTIFICIAL INTELLIGENCE",
+          "title1": "CREATE YOUR CHATBOT",
           "subtitle1": "",
           "caption1": "Bootstrap 4 has been noted as one ofvelop websites using this framework.",
-          "title2": "IBM WATSON",
+          "title2": "WATSON SPECIALIST",
           "subtitle2": "",
           "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generebsite for you.",
-          "title3": "PYTHON",
+          "title3": "PYTHON PROGRAMMER",
           "subtitle3": "",
           "caption3": "Google has a highly exhaustive list of fonts on your website easily and freely.",
-          "title4": "MACHINE LEARNING AND DEEP LEARNING",
+          "title4": "ML PRACTITIONER",
           "subtitle4": "",
           "caption4": "you the &nbsp;given the fact that it is a desktop app.",
-          "title5": "DATA SCIENCE",
+          "title5": "DATA SCIENCE SPECIALLIST",
           "subtitle5": "",
           "caption5": "o backgrounds, hamburger menu, sticky header and more.",
-          "title6": "COMBO",
+          "title6": "<br>COMBO",
           "subtitle6": "",
           "caption6": ", Github. Don't limit yourself to just one platform or service provider.",
           "button1": " <a data-app-btn=\"true\" href=\"page5.html\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MORE</a>",
@@ -2113,36 +2236,36 @@
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
             },
             ".navbar-toggler": {
-              "color": "#2e2e2e"
+              "color": "#fac51c"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#2e2e2e"
+              "background-color": "#fac51c"
             },
             ".link, .dropdown-item": {
-              "color": "#2e2e2e",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
-              "font-family": "'Lora', serif"
+              "color": "#fac51c",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "font-family": "'Roboto', sans-serif"
             },
             ".link": {
-              "font-size": "0.8rem"
+              "font-size": "0.85rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.866rem"
+              "font-size": "0.921rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#b3b3b3"
+              "background": "#003c6f"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#c4c4c4!important"
+              "background": "#005093!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#cccccc"
+              "background": "#0058a2"
             },
             ".bg-color.transparent .link": {
-              "color": "#2e2e2e",
+              "color": "#fac51c",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -2152,12 +2275,12 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#ffffff!important"
+              "color": "#f36523!important"
             }
           },
           "_params": {
             "logo": true,
-            "showBrand": true,
+            "showBrand": false,
             "hideButtons": false,
             "sticky": true,
             "collapsed": true,
@@ -2165,21 +2288,21 @@
             "bgColor": "#0058a2",
             "fontSize": "0.85",
             "fontName": {
-              "name": "Lora",
-              "url": "https://fonts.googleapis.com/css?family=Lora:400,700",
-              "css": "'Lora', serif"
+              "name": "Roboto",
+              "url": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "css": "'Roboto', sans-serif"
             },
-            "fontColor": "#ffffff",
+            "fontColor": "#fac51c",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"page1.html\" aria-expanded=\"false\" target=\"_blank\">AI &nbsp;COURSES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\" target=\"_blank\">Artificial Intelligence</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">IBM Watson</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">Python</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\">Machine Learning and Deep learning<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\">Data Science<br></a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page13.html\">CORPORATE TRAINING</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page8.html\">TESTIMONIALS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Our Trainers.html\">OUR TRAINERS&nbsp;</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page9.html\">GALLERY</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page10.html\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"page11.html\"><span class=\"mbri-edit mbr-iconfont mbr-iconfont-btn\"></span>REGISTER</a></li>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"TrainingOffering.html\" aria-expanded=\"false\" target=\"_blank\">AI &nbsp;COURSES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ArtificalIntelligence.html\" target=\"_blank\">Create Your Bot</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">Watson Specialist</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Python.html\">Python Programmer</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"MachineLearning.html\">ML Practitioner<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Datascience.html\">Data Science Specialist</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Cori.html\">CORPORATE TRAINING</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Testimonials.html\">TESTIMONIALS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Our Trainers.html\">OUR TRAINERS&nbsp;</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Gallery.html\">GALLERY</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page10.html\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning-outline btn-warning\" href=\"Register.html\"><span class=\"mbri-edit mbr-iconfont mbr-iconfont-btn\"></span>REGISTER</a></li>",
           "logo": {
             "image": {
               "active": true,
               "src": "@PROJECT_PATH@/assets/images/final-logo-blue-bg-227x128.jpg",
               "height": 128,
               "alt": "Mobirise",
-              "link": "A2I.ai",
+              "link": "index.html",
               "title": "",
               "linkInNewWindow": false
             },
@@ -2189,7 +2312,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"><br><br>Creating intelligent Workforce&nbsp;</a>",
+          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"><br><br><br></a>",
           "_tags": [
             "Theme"
           ],
@@ -2209,7 +2332,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Copyright (c) 2017 AI2U.",
+          "text": "Copyright (c) 2017 A2I.ai",
           "_tags": [
             "Theme"
           ],
@@ -2224,10 +2347,10 @@
         }
       ]
     },
-    "Corporate Training.html": {
+    "Our Trainers.html": {
       "settings": {
-        "meta_descr": "Web Site Builder Description",
-        "title": "Corporate Training",
+        "meta_descr": "Website Builder Description",
+        "title": "Our Trainers",
         "order": 2
       },
       "components": [
@@ -2242,36 +2365,36 @@
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
             },
             ".navbar-toggler": {
-              "color": "#2e2e2e"
+              "color": "#fac51c"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#2e2e2e"
+              "background-color": "#fac51c"
             },
             ".link, .dropdown-item": {
-              "color": "#2e2e2e",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
-              "font-family": "'Lora', serif"
+              "color": "#fac51c",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "font-family": "'Roboto', sans-serif"
             },
             ".link": {
-              "font-size": "0.8rem"
+              "font-size": "0.85rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.866rem"
+              "font-size": "0.921rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#b3b3b3"
+              "background": "#003c6f"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#c4c4c4!important"
+              "background": "#005093!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#cccccc"
+              "background": "#0058a2"
             },
             ".bg-color.transparent .link": {
-              "color": "#2e2e2e",
+              "color": "#fac51c",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -2281,12 +2404,12 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#ffffff!important"
+              "color": "#f36523!important"
             }
           },
           "_params": {
             "logo": true,
-            "showBrand": true,
+            "showBrand": false,
             "hideButtons": false,
             "sticky": true,
             "collapsed": true,
@@ -2294,21 +2417,21 @@
             "bgColor": "#0058a2",
             "fontSize": "0.85",
             "fontName": {
-              "name": "Lora",
-              "url": "https://fonts.googleapis.com/css?family=Lora:400,700",
-              "css": "'Lora', serif"
+              "name": "Roboto",
+              "url": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "css": "'Roboto', sans-serif"
             },
-            "fontColor": "#ffffff",
+            "fontColor": "#fac51c",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"page1.html\" aria-expanded=\"false\" target=\"_blank\">AI &nbsp;COURSES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\" target=\"_blank\">Artificial Intelligence</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">IBM Watson</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">Python</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\">Machine Learning and Deep learning<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\">Data Science<br></a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page13.html\">CORPORATE TRAINING</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page8.html\">TESTIMONIALS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Our Trainers.html\">OUR TRAINERS&nbsp;</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page9.html\">GALLERY</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page10.html\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"page11.html\"><span class=\"mbri-edit mbr-iconfont mbr-iconfont-btn\"></span>REGISTER</a></li>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"TrainingOffering.html\" aria-expanded=\"false\" target=\"_blank\">AI &nbsp;COURSES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ArtificalIntelligence.html\" target=\"_blank\">Create Your Bot</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">Watson Specialist</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Python.html\">Python Programmer</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"MachineLearning.html\">ML Practitioner<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Datascience.html\">Data Science Specialist</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Cori.html\">CORPORATE TRAINING</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Testimonials.html\">TESTIMONIALS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Our Trainers.html\">OUR TRAINERS&nbsp;</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Gallery.html\">GALLERY</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page10.html\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning-outline btn-warning\" href=\"Register.html\"><span class=\"mbri-edit mbr-iconfont mbr-iconfont-btn\"></span>REGISTER</a></li>",
           "logo": {
             "image": {
               "active": true,
               "src": "@PROJECT_PATH@/assets/images/final-logo-blue-bg-227x128.jpg",
               "height": 128,
               "alt": "Mobirise",
-              "link": "A2I.ai",
+              "link": "index.html",
               "title": "",
               "linkInNewWindow": false
             },
@@ -2318,136 +2441,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"><br><br>Creating intelligent Workforce&nbsp;</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "menu",
-          "_anchor": "menu-1m"
-        },
-        {
-          "_params": {
-            "paddingTop": 2,
-            "paddingBottom": 2,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#323232",
-            "overlay": true,
-            "overlayColor": "#444444",
-            "overlayOpacity": 0.8
-          },
-          "text": "Copyright (c) 2017 AI2U.",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "footer1",
-          "_anchor": "footer1-1n",
-          "_styles": {
-            "P": {
-              "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
-            }
-          }
-        }
-      ]
-    },
-    "Our Trainers.html": {
-      "settings": {
-        "meta_descr": "Website Builder Description",
-        "title": "Our Trainers",
-        "order": 1
-      },
-      "components": [
-        {
-          "_styles": {
-            ".hide-buttons .nav-btn": {
-              "display": "none !important"
-            },
-            ".navbar-caption": {
-              "color": "#ffffff",
-              "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
-            },
-            ".navbar-toggler": {
-              "color": "#2e2e2e"
-            },
-            ".close-icon::before, .close-icon::after": {
-              "background-color": "#2e2e2e"
-            },
-            ".link, .dropdown-item": {
-              "color": "#2e2e2e",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
-              "font-family": "'Lora', serif"
-            },
-            ".link": {
-              "font-size": "0.8rem"
-            },
-            ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.866rem"
-            },
-            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#b3b3b3"
-            },
-            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#c4c4c4!important"
-            },
-            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#cccccc"
-            },
-            ".bg-color.transparent .link": {
-              "color": "#2e2e2e",
-              "transition": "none"
-            },
-            ".bg-color.transparent.opened .link": {
-              "transition": "color .2s ease-in-out"
-            },
-            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#ffffff!important"
-            }
-          },
-          "_params": {
-            "logo": true,
-            "showBrand": true,
-            "hideButtons": false,
-            "sticky": true,
-            "collapsed": true,
-            "transparent": false,
-            "bgColor": "#0058a2",
-            "fontSize": "0.85",
-            "fontName": {
-              "name": "Lora",
-              "url": "https://fonts.googleapis.com/css?family=Lora:400,700",
-              "css": "'Lora', serif"
-            },
-            "fontColor": "#ffffff",
-            "fontHoverColor": "@primaryColor"
-          },
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"page1.html\" aria-expanded=\"false\" target=\"_blank\">AI &nbsp;COURSES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\" target=\"_blank\">Artificial Intelligence</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">IBM Watson</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">Python</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\">Machine Learning and Deep learning<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\">Data Science<br></a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page13.html\">CORPORATE TRAINING</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page8.html\">TESTIMONIALS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Our Trainers.html\">OUR TRAINERS&nbsp;</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page9.html\">GALLERY</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page10.html\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"page11.html\"><span class=\"mbri-edit mbr-iconfont mbr-iconfont-btn\"></span>REGISTER</a></li>",
-          "logo": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/final-logo-blue-bg-227x128.jpg",
-              "height": 128,
-              "alt": "Mobirise",
-              "link": "A2I.ai",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-menu",
-              "link": "https://mobirise.com",
-              "size": 0
-            }
-          },
-          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"><br><br>Creating intelligent Workforce&nbsp;</a>",
+          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"><br><br><br></a>",
           "_tags": [
             "Theme"
           ],
@@ -2467,7 +2461,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Copyright (c) 2017 AI2U.",
+          "text": "Copyright (c) 2017 A2I.ai",
           "_tags": [
             "Theme"
           ],
@@ -2482,108 +2476,240 @@
         },
         {
           "_params": {
+            "showTitle": true,
+            "showSubtitle": true,
             "showImages": true,
-            "showTitles": true,
-            "showSubtitles": true,
-            "ShowTexts": true,
-            "showButtons": true,
-            "columnsColor": "#2e2e2e",
+            "showName": true,
+            "showBio": true,
+            "count": 3,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/landscape2.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "WHAT OUR FANTASTIC USERS SAY",
+          "subtitle": "Shape your future web project with sharp design and refine coded functions.",
+          "testimonial": [
+            {
+              "authorName": "Abanoub S.",
+              "authorBio": "User",
+              "text": "<p>“its really very amazing app that makes me finish html page in 3 minutes ( that's usually takes more than 1 hours at least from me if i did it from scratch). i hope to have very big library and plugins for this APP thanks again for your nice application”</p>",
+              "media": {
+                "image": {
+                  "src": "@THEME_PATH@/components/_images/face3.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true
+                }
+              }
+            },
+            {
+              "authorName": "Suffian A.",
+              "authorBio": "User",
+              "text": "<p>“First of all hands off to you guys for your effort and nice, super tool. Good work mobirise team. We are expecting the new version soon with advance functionality with full bootstrap design. Great effort and super UI experience with easy drag & drop with no time design bootstrap builder in present web design world.”</p>",
+              "media": {
+                "image": {
+                  "src": "@THEME_PATH@/components/_images/face1.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true
+                }
+              }
+            },
+            {
+              "authorName": "Jhollman C.",
+              "authorBio": "User",
+              "text": "<p>“At first view, looks like a nice innovative tool, i like the great focus and time that was given to the responsive design, i also like the simple and clear drag and drop features. Give me more control over the object's properties and ill be using this tool for more serious projects. Regards.”</p>",
+              "media": {
+                "image": {
+                  "src": "@THEME_PATH@/components/_images/face2.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true
+                }
+              }
+            }
+          ],
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "testimonials1",
+          "_anchor": "testimonials1-23"
+        }
+      ]
+    },
+    "Cori.html": {
+      "settings": {
+        "meta_descr": "Website Generator Description",
+        "title": "Corporate Training",
+        "order": 1
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff",
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
+            },
+            ".navbar-toggler": {
+              "color": "#fac51c"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#fac51c"
+            },
+            ".link, .dropdown-item": {
+              "color": "#fac51c",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "font-family": "'Roboto', sans-serif"
+            },
+            ".link": {
+              "font-size": "0.85rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.921rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#003c6f"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#005093!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#0058a2"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#fac51c",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#f36523!important"
+            }
+          },
+          "_params": {
+            "logo": true,
+            "showBrand": false,
+            "hideButtons": false,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
+            "bgColor": "#0058a2",
+            "fontSize": "0.85",
+            "fontName": {
+              "name": "Roboto",
+              "url": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "css": "'Roboto', sans-serif"
+            },
+            "fontColor": "#fac51c",
+            "fontHoverColor": "@primaryColor"
+          },
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"TrainingOffering.html\" aria-expanded=\"false\" target=\"_blank\">AI &nbsp;COURSES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ArtificalIntelligence.html\" target=\"_blank\">Create Your Bot</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">Watson Specialist</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Python.html\">Python Programmer</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"MachineLearning.html\">ML Practitioner<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Datascience.html\">Data Science Specialist</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Cori.html\">CORPORATE TRAINING</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Testimonials.html\">TESTIMONIALS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Our Trainers.html\">OUR TRAINERS&nbsp;</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Gallery.html\">GALLERY</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page10.html\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning-outline btn-warning\" href=\"Register.html\"><span class=\"mbri-edit mbr-iconfont mbr-iconfont-btn\"></span>REGISTER</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/final-logo-blue-bg-227x128.jpg",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"><br><br><br></a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-1x"
+        },
+        {
+          "_params": {
             "paddingTop": 2,
             "paddingBottom": 2,
-            "columns": 4,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#fff",
+            "bgColor": "#323232",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "Copyright (c) 2017 A2I.ai",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_styles": {
+            "P": {
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
+            }
+          },
+          "_anchor": "footer1-1y"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "showArrow": true,
+            "contentAlign": "center",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/successful-training-strategy-1440x600.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#a07e49",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "overlay": false,
-            "overlayColor": "#222",
+            "overlayColor": "#000",
             "overlayOpacity": 0.5
           },
-          "media1": {
-            "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/table.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true
-            }
-          },
-          "media2": {
-            "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true
-            }
-          },
-          "media3": {
-            "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/coworkers.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true
-            }
-          },
-          "media4": {
-            "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true
-            }
-          },
-          "media5": {
-            "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true
-            }
-          },
-          "media6": {
-            "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true
-            }
-          },
-          "title1": "Bootstrap 4",
-          "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
-          "title2": "Responsive",
-          "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
-          "title3": "Web Fonts",
-          "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
-          "title4": "Unlimited Sites",
-          "subtitle4": "Mobirise gives you the freedom to develop",
-          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
-          "title5": "Trendy Website Blocks",
-          "subtitle5": "Choose from the large selection of blocks",
-          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-          "title6": "Host Anywhere",
-          "subtitle6": "Don't limit yourself to just one platform",
-          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "title": "Corporate Training",
+          "text": "Working with various Corporates to design and deliver customized AI, Watson Certification, Python and Advanced Machine Learning specialized courses.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"Register.html\" data-toolbar=\"-mbrBtnMove\">REGISTER YOUR INTEREST</a> ",
           "_tags": [
             "Theme"
           ],
-          "_name": "features1",
-          "_anchor": "features1-1t",
+          "_name": "header1",
+          "_anchor": "header1-25",
           "_styles": {
-            ".striped .mbr-cards-col:nth-child(2n+1)": {
-              "background-color": "#2e2e2e"
+            ".mbr-section-title": {
+              "color": "#f36523"
+            },
+            ".mbr-section-lead": {
+              "color": "#0058a2",
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
             }
           }
         }
