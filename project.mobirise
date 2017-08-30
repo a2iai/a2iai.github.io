@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-08-22_1138",
-    "currentPage": "index.html",
+    "currentPage": "Gallery.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -141,7 +141,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#f36523!important"
+              "color": "null!important"
             }
           },
           "_params": {
@@ -161,7 +161,7 @@
             "fontColor": "#fac51c",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"TrainingOffering.html\" aria-expanded=\"false\" target=\"_blank\">AI &nbsp;COURSES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ArtificalIntelligence.html\" target=\"_blank\">Create Your Bot</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">Watson Specialist</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Python.html\">Python Programmer</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"MachineLearning.html\">ML Practitioner<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Datascience.html\">Data Science Specialist</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Cori.html\">CORPORATE TRAINING</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Testimonials.html\">TESTIMONIALS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Our Trainers.html\">OUR TRAINERS&nbsp;</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Gallery.html\">GALLERY</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page10.html\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning-outline btn-warning\" href=\"Register.html\"><span class=\"mbri-edit mbr-iconfont mbr-iconfont-btn\"></span>REGISTER</a></li>",
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"TrainingOffering.html\" aria-expanded=\"true\" target=\"_blank\">AI &nbsp;COURSES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ArtificalIntelligence.html\" target=\"_blank\">Create Your Bot</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">Watson Specialist</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Python.html\">Python Programmer</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"MachineLearning.html\">ML Practitioner<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Datascience.html\">Data Science Specialist</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Cori.html\">CORPORATE TRAINING</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Testimonials.html\">TESTIMONIALS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Our Trainers.html\">OUR TRAINERS&nbsp;</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Gallery.html\">GALLERY</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page10.html\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning-outline btn-warning\" href=\"Register.html\"><span class=\"mbri-edit mbr-iconfont mbr-iconfont-btn\"></span>REGISTER</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -365,7 +365,7 @@
             "fontColor": "#fac51c",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"TrainingOffering.html\" aria-expanded=\"false\" target=\"_blank\">AI &nbsp;COURSES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ArtificalIntelligence.html\" target=\"_blank\">Create Your Bot</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">Watson Specialist</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Python.html\">Python Programmer</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"MachineLearning.html\">ML Practitioner<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Datascience.html\">Data Science Specialist</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Cori.html\">CORPORATE TRAINING</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Testimonials.html\">TESTIMONIALS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Our Trainers.html\">OUR TRAINERS&nbsp;</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Gallery.html\">GALLERY</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page10.html\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning-outline btn-warning\" href=\"Register.html\"><span class=\"mbri-edit mbr-iconfont mbr-iconfont-btn\"></span>REGISTER</a></li>",
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"TrainingOffering.html\" aria-expanded=\"true\" target=\"_blank\">AI &nbsp;COURSES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ArtificalIntelligence.html\" target=\"_blank\">Create Your Bot</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">Watson Specialist</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Python.html\">Python Programmer</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"MachineLearning.html\">ML Practitioner<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Datascience.html\">Data Science Specialist</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Cori.html\">CORPORATE TRAINING</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Testimonials.html\">TESTIMONIALS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Our Trainers.html\">OUR TRAINERS&nbsp;</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Gallery.html\">GALLERY</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page10.html\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning-outline btn-warning\" href=\"Register.html\"><span class=\"mbri-edit mbr-iconfont mbr-iconfont-btn\"></span>REGISTER</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -468,7 +468,7 @@
             "fontColor": "#fac51c",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"TrainingOffering.html\" aria-expanded=\"false\" target=\"_blank\">AI &nbsp;COURSES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ArtificalIntelligence.html\" target=\"_blank\">Create Your Bot</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">Watson Specialist</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Python.html\">Python Programmer</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"MachineLearning.html\">ML Practitioner<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Datascience.html\">Data Science Specialist</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Cori.html\">CORPORATE TRAINING</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Testimonials.html\">TESTIMONIALS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Our Trainers.html\">OUR TRAINERS&nbsp;</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Gallery.html\">GALLERY</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page10.html\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning-outline btn-warning\" href=\"Register.html\"><span class=\"mbri-edit mbr-iconfont mbr-iconfont-btn\"></span>REGISTER</a></li>",
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"TrainingOffering.html\" aria-expanded=\"true\" target=\"_blank\">AI &nbsp;COURSES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ArtificalIntelligence.html\" target=\"_blank\">Create Your Bot</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">Watson Specialist</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Python.html\">Python Programmer</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"MachineLearning.html\">ML Practitioner<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Datascience.html\">Data Science Specialist</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Cori.html\">CORPORATE TRAINING</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Testimonials.html\">TESTIMONIALS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Our Trainers.html\">OUR TRAINERS&nbsp;</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Gallery.html\">GALLERY</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page10.html\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning-outline btn-warning\" href=\"Register.html\"><span class=\"mbri-edit mbr-iconfont mbr-iconfont-btn\"></span>REGISTER</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -495,7 +495,7 @@
         {
           "_params": {
             "showTitle": true,
-            "showSubTitle": true,
+            "showSubTitle": false,
             "labelsColor": "#ffffff",
             "paddingTop": 3,
             "paddingBottom": 3,
@@ -503,7 +503,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#232323",
+            "bgColor": "#0058a2",
             "overlay": false,
             "overlayColor": "#222",
             "overlayOpacity": 0.5
@@ -514,7 +514,7 @@
           "form": {
             "action": "anjan.kumar@a2i.ai",
             "alerts": {
-              "success": "Thanks for filling out form!"
+              "success": "Thanks for filling out form! We will get back to you as early as possible."
             },
             "fields": {
               "name": {
@@ -548,7 +548,13 @@
               "color": "#ffffff"
             },
             ".mbr-section-title": {
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
+            },
+            ".btn": {
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
             }
           }
         }
@@ -631,7 +637,7 @@
             "fontColor": "#fac51c",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"TrainingOffering.html\" aria-expanded=\"false\" target=\"_blank\">AI &nbsp;COURSES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ArtificalIntelligence.html\" target=\"_blank\">Create Your Bot</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">Watson Specialist</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Python.html\">Python Programmer</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"MachineLearning.html\">ML Practitioner<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Datascience.html\">Data Science Specialist</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Cori.html\">CORPORATE TRAINING</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Testimonials.html\">TESTIMONIALS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Our Trainers.html\">OUR TRAINERS&nbsp;</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Gallery.html\">GALLERY</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page10.html\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning-outline btn-warning\" href=\"Register.html\"><span class=\"mbri-edit mbr-iconfont mbr-iconfont-btn\"></span>REGISTER</a></li>",
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"TrainingOffering.html\" aria-expanded=\"true\" target=\"_blank\">AI &nbsp;COURSES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ArtificalIntelligence.html\" target=\"_blank\">Create Your Bot</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">Watson Specialist</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Python.html\">Python Programmer</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"MachineLearning.html\">ML Practitioner<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Datascience.html\">Data Science Specialist</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Cori.html\">CORPORATE TRAINING</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Testimonials.html\">TESTIMONIALS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Our Trainers.html\">OUR TRAINERS&nbsp;</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Gallery.html\">GALLERY</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page10.html\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning-outline btn-warning\" href=\"Register.html\"><span class=\"mbri-edit mbr-iconfont mbr-iconfont-btn\"></span>REGISTER</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -859,7 +865,7 @@
             "fontColor": "#fac51c",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"TrainingOffering.html\" aria-expanded=\"false\" target=\"_blank\">AI &nbsp;COURSES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ArtificalIntelligence.html\" target=\"_blank\">Create Your Bot</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">Watson Specialist</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Python.html\">Python Programmer</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"MachineLearning.html\">ML Practitioner<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Datascience.html\">Data Science Specialist</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Cori.html\">CORPORATE TRAINING</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Testimonials.html\">TESTIMONIALS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Our Trainers.html\">OUR TRAINERS&nbsp;</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Gallery.html\">GALLERY</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page10.html\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning-outline btn-warning\" href=\"Register.html\"><span class=\"mbri-edit mbr-iconfont mbr-iconfont-btn\"></span>REGISTER</a></li>",
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"TrainingOffering.html\" aria-expanded=\"true\" target=\"_blank\">AI &nbsp;COURSES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ArtificalIntelligence.html\" target=\"_blank\">Create Your Bot</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">Watson Specialist</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Python.html\">Python Programmer</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"MachineLearning.html\">ML Practitioner<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Datascience.html\">Data Science Specialist</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Cori.html\">CORPORATE TRAINING</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Testimonials.html\">TESTIMONIALS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Our Trainers.html\">OUR TRAINERS&nbsp;</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Gallery.html\">GALLERY</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page10.html\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning-outline btn-warning\" href=\"Register.html\"><span class=\"mbri-edit mbr-iconfont mbr-iconfont-btn\"></span>REGISTER</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -922,7 +928,7 @@
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": true,
-            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/testimonials-2000x1333.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
@@ -1135,7 +1141,7 @@
             "fontColor": "#fac51c",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"TrainingOffering.html\" aria-expanded=\"false\" target=\"_blank\">AI &nbsp;COURSES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ArtificalIntelligence.html\" target=\"_blank\">Create Your Bot</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">Watson Specialist</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Python.html\">Python Programmer</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"MachineLearning.html\">ML Practitioner<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Datascience.html\">Data Science Specialist</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Cori.html\">CORPORATE TRAINING</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Testimonials.html\">TESTIMONIALS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Our Trainers.html\">OUR TRAINERS&nbsp;</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Gallery.html\">GALLERY</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page10.html\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning-outline btn-warning\" href=\"Register.html\"><span class=\"mbri-edit mbr-iconfont mbr-iconfont-btn\"></span>REGISTER</a></li>",
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"TrainingOffering.html\" aria-expanded=\"true\" target=\"_blank\">AI &nbsp;COURSES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ArtificalIntelligence.html\" target=\"_blank\">Create Your Bot</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">Watson Specialist</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Python.html\">Python Programmer</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"MachineLearning.html\">ML Practitioner<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Datascience.html\">Data Science Specialist</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Cori.html\">CORPORATE TRAINING</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Testimonials.html\">TESTIMONIALS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Our Trainers.html\">OUR TRAINERS&nbsp;</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Gallery.html\">GALLERY</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page10.html\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning-outline btn-warning\" href=\"Register.html\"><span class=\"mbri-edit mbr-iconfont mbr-iconfont-btn\"></span>REGISTER</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -1168,7 +1174,7 @@
             "paddingTop": 1,
             "paddingBottom": "1",
             "filterBgColor": true,
-            "bgColor": "#c1c1c1",
+            "bgColor": "#efefef",
             "showText": true,
             "filter": false,
             "images": [
@@ -1303,7 +1309,7 @@
             "fontColor": "#fac51c",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"TrainingOffering.html\" aria-expanded=\"false\" target=\"_blank\">AI &nbsp;COURSES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ArtificalIntelligence.html\" target=\"_blank\">Create Your Bot</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">Watson Specialist</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Python.html\">Python Programmer</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"MachineLearning.html\">ML Practitioner<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Datascience.html\">Data Science Specialist</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Cori.html\">CORPORATE TRAINING</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Testimonials.html\">TESTIMONIALS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Our Trainers.html\">OUR TRAINERS&nbsp;</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Gallery.html\">GALLERY</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page10.html\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning-outline btn-warning\" href=\"Register.html\"><span class=\"mbri-edit mbr-iconfont mbr-iconfont-btn\"></span>REGISTER</a></li>",
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"TrainingOffering.html\" aria-expanded=\"true\" target=\"_blank\">AI &nbsp;COURSES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ArtificalIntelligence.html\" target=\"_blank\">Create Your Bot</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">Watson Specialist</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Python.html\">Python Programmer</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"MachineLearning.html\">ML Practitioner<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Datascience.html\">Data Science Specialist</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Cori.html\">CORPORATE TRAINING</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Testimonials.html\">TESTIMONIALS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Our Trainers.html\">OUR TRAINERS&nbsp;</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Gallery.html\">GALLERY</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page10.html\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning-outline btn-warning\" href=\"Register.html\"><span class=\"mbri-edit mbr-iconfont mbr-iconfont-btn\"></span>REGISTER</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -1331,6 +1337,10 @@
           "_styles": {
             ".mbr-section-title, p": {
               "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "font-family": "'Roboto Condensed', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700"
             }
           },
           "_params": {
@@ -1365,7 +1375,7 @@
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#efefef"
+            "bgColor": "#0058a2"
           },
           "text1": "Data is the new currency for any Business today. With adoption of digital technologies across the Industries, Customer engagement and Operations have revolutionised generating vast amount of data that is extremely useful for the Businesses. Data science thus deals with scientific methods, processes, and systems to extract knowledge or insights from the data in various forms, either structured or unstructured.\n<div>\n</div><div><br></div>",
           "text2": "<p><br></p><p><b>Course duration:</b> 30 hours Classroom session + 40 hours of lab access with assistance\n</p><div>\n</div><div><br></div><div><b>Lunch and evening tea will be served\n</b></div><div>\n</div><div><br></div><div><b>Course delivery:</b> Classroom session on concepts supported by in-depth hands-on sessions with 1 instructor for every 3 students\n</div><div>\n</div><div><br></div><p></p>",
@@ -1377,8 +1387,10 @@
           "_anchor": "content7-1d",
           "_styles": {
             "DIV": {
-              "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "color": "#ffffff",
+              "text-align": "center"
             }
           }
         },
@@ -1386,14 +1398,20 @@
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#efefef"
+            "bgColor": "#0058a2"
           },
-          "buttons": "  <a data-app-btn=\"true\" class=\"btn btn-info-outline btn-info\" href=\"page11.html\" data-toolbar=\"-mbrBtnMove\">ENROLL</a>",
+          "buttons": "  <a data-app-btn=\"true\" class=\"btn btn-primary-outline btn-primary\" href=\"Register.html\" data-toolbar=\"-mbrBtnMove\">ENROLL</a>",
           "_tags": [
             "Theme"
           ],
           "_name": "buttons1",
-          "_anchor": "buttons1-1e"
+          "_anchor": "buttons1-1e",
+          "_styles": {
+            ".btn": {
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
+            }
+          }
         },
         {
           "_params": {
@@ -1500,7 +1518,7 @@
             "fontColor": "#fac51c",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"TrainingOffering.html\" aria-expanded=\"false\" target=\"_blank\">AI &nbsp;COURSES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ArtificalIntelligence.html\" target=\"_blank\">Create Your Bot</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">Watson Specialist</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Python.html\">Python Programmer</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"MachineLearning.html\">ML Practitioner<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Datascience.html\">Data Science Specialist</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Cori.html\">CORPORATE TRAINING</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Testimonials.html\">TESTIMONIALS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Our Trainers.html\">OUR TRAINERS&nbsp;</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Gallery.html\">GALLERY</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page10.html\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning-outline btn-warning\" href=\"Register.html\"><span class=\"mbri-edit mbr-iconfont mbr-iconfont-btn\"></span>REGISTER</a></li>",
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"TrainingOffering.html\" aria-expanded=\"true\" target=\"_blank\">AI &nbsp;COURSES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ArtificalIntelligence.html\" target=\"_blank\">Create Your Bot</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">Watson Specialist</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Python.html\">Python Programmer</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"MachineLearning.html\">ML Practitioner<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Datascience.html\">Data Science Specialist</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Cori.html\">CORPORATE TRAINING</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Testimonials.html\">TESTIMONIALS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Our Trainers.html\">OUR TRAINERS&nbsp;</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Gallery.html\">GALLERY</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page10.html\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning-outline btn-warning\" href=\"Register.html\"><span class=\"mbri-edit mbr-iconfont mbr-iconfont-btn\"></span>REGISTER</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -1528,6 +1546,10 @@
           "_styles": {
             ".mbr-section-title, p": {
               "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "font-family": "'Roboto Condensed', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700"
             }
           },
           "_params": {
@@ -1562,7 +1584,7 @@
           "_params": {
             "paddingTop": "2",
             "paddingBottom": "1",
-            "bgColor": "#efefef"
+            "bgColor": "#0058a2"
           },
           "text1": "Machine learning is a type of artificial intelligence (AI) that enables computer applications to predict outcomes without being explicitly programmed. It is based on the idea that Machines should be able to learn and adapt through experience. Machine learning algorithms are often categorized as being supervised or unsupervised.\n<div>\n</div><div><br></div>",
           "text2": "\n<div><b>Course duration:</b> 35 hours Classroom session + 40 hours of lab access with assistance\n</div><div>\n</div><div><br></div><div><b>Lunch and evening tea will be served\n</b></div><div>\n</div><div><br></div><div><b>Course delivery:</b> Classroom session on concepts supported by in-depth hands-on sessions with 1 instructor for every 3 students\n</div><div><br></div>",
@@ -1574,8 +1596,10 @@
           "_anchor": "content7-19",
           "_styles": {
             "DIV": {
-              "font-family": "'Play', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Play:400,700"
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "text-align": "center",
+              "color": "#ffffff"
             }
           }
         },
@@ -1583,9 +1607,9 @@
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#efefef"
+            "bgColor": "#0058a2"
           },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"page11.html\" data-toolbar=\"-mbrBtnMove\">ENROLL</a> ",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"Register.html\" data-toolbar=\"-mbrBtnMove\">ENROLL</a> ",
           "_tags": [
             "Theme"
           ],
@@ -1697,7 +1721,7 @@
             "fontColor": "#fac51c",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"TrainingOffering.html\" aria-expanded=\"false\" target=\"_blank\">AI &nbsp;COURSES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ArtificalIntelligence.html\" target=\"_blank\">Create Your Bot</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">Watson Specialist</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Python.html\">Python Programmer</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"MachineLearning.html\">ML Practitioner<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Datascience.html\">Data Science Specialist</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Cori.html\">CORPORATE TRAINING</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Testimonials.html\">TESTIMONIALS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Our Trainers.html\">OUR TRAINERS&nbsp;</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Gallery.html\">GALLERY</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page10.html\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning-outline btn-warning\" href=\"Register.html\"><span class=\"mbri-edit mbr-iconfont mbr-iconfont-btn\"></span>REGISTER</a></li>",
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"TrainingOffering.html\" aria-expanded=\"true\" target=\"_blank\">AI &nbsp;COURSES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ArtificalIntelligence.html\" target=\"_blank\">Create Your Bot</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">Watson Specialist</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Python.html\">Python Programmer</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"MachineLearning.html\">ML Practitioner<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Datascience.html\">Data Science Specialist</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Cori.html\">CORPORATE TRAINING</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Testimonials.html\">TESTIMONIALS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Our Trainers.html\">OUR TRAINERS&nbsp;</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Gallery.html\">GALLERY</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page10.html\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning-outline btn-warning\" href=\"Register.html\"><span class=\"mbri-edit mbr-iconfont mbr-iconfont-btn\"></span>REGISTER</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -1734,8 +1758,8 @@
             "showTitle": true,
             "showText": true,
             "showButton": false,
-            "paddingTop": "2",
-            "paddingBottom": "2",
+            "paddingTop": "3",
+            "paddingBottom": "1",
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/python.sh-600x600.png",
             "parallax": true,
@@ -1760,9 +1784,9 @@
         },
         {
           "_params": {
-            "paddingTop": "1",
+            "paddingTop": "4",
             "paddingBottom": "6",
-            "bgColor": "#efefef"
+            "bgColor": "#0058a2"
           },
           "text1": "Python is an interpreted, object-oriented, high-level programming language with dynamic semantics. It is both useful for Rapid Application Development and as a scripting language. Programmers prefer Python because of the increased productivity it provides. Python is a popular choice for developing Machine Learning applications.\n<div>This Course attempts in equipping you with required programming skills using Python, as any data science and machine learning implementation asks for adequate knowledge on python to solve various use cases.\n</div><div><br></div>",
           "text2": "<p><br></p><p><br></p><p><br></p><p><b>Course duration:</b> 25 hours Classroom session + 40 hours of lab access with assistance\n</p><div>\n</div><div><br></div><div><b>Lunch and evening tea will be served\n</b></div><div>\n</div><div><br></div><div>Course delivery: Classroom session on concepts supported by in-depth hands-on sessions with<i> 1 instructor for every 3 students\n</i></div><div><br></div><p></p>",
@@ -1774,8 +1798,10 @@
           "_anchor": "content7-17",
           "_styles": {
             "DIV": {
-              "font-family": "'Play', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Play:400,700"
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "color": "#ffffff",
+              "text-align": "center"
             }
           }
         },
@@ -1783,14 +1809,20 @@
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#efefef"
+            "bgColor": "#0058a2"
           },
-          "buttons": "  <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"page11.html\" data-toolbar=\"-mbrBtnMove\">ENROLL</a>",
+          "buttons": "  <a data-app-btn=\"true\" class=\"btn btn-primary-outline btn-primary\" href=\"Register.html\" data-toolbar=\"-mbrBtnMove\">ENROLL</a>",
           "_tags": [
             "Theme"
           ],
           "_name": "buttons1",
-          "_anchor": "buttons1-m"
+          "_anchor": "buttons1-m",
+          "_styles": {
+            ".btn": {
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
+            }
+          }
         },
         {
           "_params": {
@@ -1897,7 +1929,7 @@
             "fontColor": "#fac51c",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"TrainingOffering.html\" aria-expanded=\"false\" target=\"_blank\">AI &nbsp;COURSES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ArtificalIntelligence.html\" target=\"_blank\">Create Your Bot</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">Watson Specialist</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Python.html\">Python Programmer</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"MachineLearning.html\">ML Practitioner<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Datascience.html\">Data Science Specialist</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Cori.html\">CORPORATE TRAINING</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Testimonials.html\">TESTIMONIALS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Our Trainers.html\">OUR TRAINERS&nbsp;</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Gallery.html\">GALLERY</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page10.html\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning-outline btn-warning\" href=\"Register.html\"><span class=\"mbri-edit mbr-iconfont mbr-iconfont-btn\"></span>REGISTER</a></li>",
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"TrainingOffering.html\" aria-expanded=\"true\" target=\"_blank\">AI &nbsp;COURSES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ArtificalIntelligence.html\" target=\"_blank\">Create Your Bot</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">Watson Specialist</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Python.html\">Python Programmer</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"MachineLearning.html\">ML Practitioner<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Datascience.html\">Data Science Specialist</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Cori.html\">CORPORATE TRAINING</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Testimonials.html\">TESTIMONIALS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Our Trainers.html\">OUR TRAINERS&nbsp;</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Gallery.html\">GALLERY</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page10.html\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning-outline btn-warning\" href=\"Register.html\"><span class=\"mbri-edit mbr-iconfont mbr-iconfont-btn\"></span>REGISTER</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -1963,7 +1995,7 @@
           "_params": {
             "paddingTop": "1",
             "paddingBottom": "2",
-            "bgColor": "#cccccc"
+            "bgColor": "#0058a2"
           },
           "text1": "<p><br></p><p><br></p><p><br></p><p>Companies are increasingly embracing automation for effective customer engagement. Chatbots are increasingly becoming popular for it enables 24X7 availability to answer Customer queries and instant responses.</p><p><br></p><p> This is a clear instance of artificial intelligence at play. This course covers all about chatbot development using API.ai.\n</p><div>\n</div><div><br></div><p></p>",
           "text2": "<p><br></p><p><br></p><p><br></p><p><b>Course duration:</b> 24 hours Classroom session + 40 hours of lab access with assistance.</p><p><br></p><p>\n</p><div>\n</div><div><b>Lunch and evening tea will be served.</b></div><div>\n</div><div><br></div><div><b>Course delivery:</b> Classroom session on concepts supported by in-depth hands-on sessions with <i>1 instructor for every 3 students\n</i></div><div>\n</div><div><br></div><p></p>",
@@ -1975,13 +2007,15 @@
           "_anchor": "content7-12",
           "_styles": {
             "DIV": {
-              "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "text-align": "center",
+              "color": "#ffffff"
             },
             "P": {
-              "text-align": "left",
-              "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
+              "text-align": "center",
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
             }
           }
         },
@@ -2015,9 +2049,9 @@
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#cccccc"
+            "bgColor": "#0058a2"
           },
-          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"page11.html\" data-toolbar=\"-mbrBtnMove\">ENROLL</a>",
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-primary-outline btn-primary\" href=\"Register.html\" data-toolbar=\"-mbrBtnMove\">ENROLL</a>",
           "_tags": [
             "Theme"
           ],
@@ -2025,45 +2059,10 @@
           "_anchor": "buttons1-14",
           "_styles": {
             ".btn": {
-              "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
             }
           }
-        },
-        {
-          "_inherit": "msg-box8",
-          "_styles": {
-            ".mbr-section-title, p": {
-              "color": "#000"
-            }
-          },
-          "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButton": true,
-            "paddingTop": "3",
-            "paddingBottom": "3",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#F2F2F2",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "title": "MODERN STYLES",
-          "text": "<p>Mobirise has provided for website developers a growing library of modern blocks which can be used either partially or in full for every website developed through the builder.</p>",
-          "_tags": [
-            "Theme"
-          ],
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">SEE ALL TEMPLATES</a> <a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">SEE ALL TEMPLATES</a>",
-          "_name": "msg-box3",
-          "_anchor": "msg-box3-1w"
         }
       ]
     },
@@ -2161,7 +2160,7 @@
               "class": "card-img-top",
               "width": 600,
               "active": true,
-              "link": "page3.html",
+              "link": "Python.html",
               "alt": "",
               "title": "",
               "linkInNewWindow": true
@@ -2173,7 +2172,7 @@
               "class": "card-img-top",
               "width": 600,
               "active": true,
-              "link": "page6.html",
+              "link": "MachineLearning.html",
               "alt": "",
               "title": "",
               "linkInNewWindow": true
@@ -2181,10 +2180,14 @@
           },
           "media5": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+              "src": "@PROJECT_PATH@/assets/images/windows-books.jpg",
               "class": "card-img-top",
               "width": 600,
-              "active": true
+              "active": true,
+              "link": "Datascience.html",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
             }
           },
           "media6": {
@@ -2197,33 +2200,47 @@
           },
           "title1": "CREATE YOUR CHATBOT",
           "subtitle1": "",
-          "caption1": "Bootstrap 4 has been noted as one ofvelop websites using this framework.",
+          "caption1": "Chatbots are increasingly becoming popular for it enables 24X7 availability to answer Customer queries and instant responses.",
           "title2": "WATSON SPECIALIST",
           "subtitle2": "",
-          "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generebsite for you.",
+          "caption2": "Coming soon!!!",
           "title3": "PYTHON PROGRAMMER",
           "subtitle3": "",
-          "caption3": "Google has a highly exhaustive list of fonts on your website easily and freely.",
+          "caption3": "Python is an interpreted, object-oriented, high-level programming language with dynamic semantics.",
           "title4": "ML PRACTITIONER",
           "subtitle4": "",
-          "caption4": "you the &nbsp;given the fact that it is a desktop app.",
-          "title5": "DATA SCIENCE SPECIALLIST",
+          "caption4": "Machine learning is a type of artificial intelligence (AI) that enables computer applications to predict outcomes without being explicitly programmed.",
+          "title5": "DATA SCIENCE SPECIALIST",
           "subtitle5": "",
-          "caption5": "o backgrounds, hamburger menu, sticky header and more.",
+          "caption5": "Data science deals with scientific methods, processes, and systems to extract knowledge or insights from the data in various forms, either structured or unstructured.",
           "title6": "<br>COMBO",
           "subtitle6": "",
-          "caption6": ", Github. Don't limit yourself to just one platform or service provider.",
-          "button1": " <a data-app-btn=\"true\" href=\"page5.html\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MORE</a>",
-          "button2": "<a data-app-btn=\"true\" href=\"page4.html\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MORE</a>",
-          "button3": "<a data-app-btn=\"true\" href=\"page3.html\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MORE</a>",
-          "button4": "<a data-app-btn=\"true\" href=\"page6.html\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MORE</a>",
-          "button5": "<a data-app-btn=\"true\" href=\"page7.html\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MORE</a>",
-          "button6": "<a data-app-btn=\"true\" href=\"page12.html\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MORE</a>",
+          "caption6": "Coming soon!!!",
+          "button1": " <a data-app-btn=\"true\" href=\"ArtificalIntelligence.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MORE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"page4.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MORE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"Python.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MORE</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"MachineLearning.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MORE</a>",
+          "button5": "<a data-app-btn=\"true\" href=\"Datascience.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MORE</a>",
+          "button6": "<a data-app-btn=\"true\" href=\"page12.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MORE</a>",
           "_tags": [
             "Theme"
           ],
           "_name": "features3",
-          "_anchor": "features3-n"
+          "_anchor": "features3-n",
+          "_styles": {
+            "P": {
+              "color": "#ffffff",
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
+            },
+            "H4": {
+              "color": "#ffffff"
+            },
+            ".btn": {
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
+            }
+          }
         },
         {
           "_styles": {
@@ -2295,7 +2312,7 @@
             "fontColor": "#fac51c",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"TrainingOffering.html\" aria-expanded=\"false\" target=\"_blank\">AI &nbsp;COURSES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ArtificalIntelligence.html\" target=\"_blank\">Create Your Bot</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">Watson Specialist</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Python.html\">Python Programmer</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"MachineLearning.html\">ML Practitioner<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Datascience.html\">Data Science Specialist</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Cori.html\">CORPORATE TRAINING</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Testimonials.html\">TESTIMONIALS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Our Trainers.html\">OUR TRAINERS&nbsp;</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Gallery.html\">GALLERY</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page10.html\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning-outline btn-warning\" href=\"Register.html\"><span class=\"mbri-edit mbr-iconfont mbr-iconfont-btn\"></span>REGISTER</a></li>",
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"TrainingOffering.html\" aria-expanded=\"true\" target=\"_blank\">AI &nbsp;COURSES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ArtificalIntelligence.html\" target=\"_blank\">Create Your Bot</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">Watson Specialist</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Python.html\">Python Programmer</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"MachineLearning.html\">ML Practitioner<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Datascience.html\">Data Science Specialist</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Cori.html\">CORPORATE TRAINING</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Testimonials.html\">TESTIMONIALS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Our Trainers.html\">OUR TRAINERS&nbsp;</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Gallery.html\">GALLERY</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page10.html\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning-outline btn-warning\" href=\"Register.html\"><span class=\"mbri-edit mbr-iconfont mbr-iconfont-btn\"></span>REGISTER</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -2424,7 +2441,7 @@
             "fontColor": "#fac51c",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"TrainingOffering.html\" aria-expanded=\"false\" target=\"_blank\">AI &nbsp;COURSES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ArtificalIntelligence.html\" target=\"_blank\">Create Your Bot</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">Watson Specialist</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Python.html\">Python Programmer</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"MachineLearning.html\">ML Practitioner<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Datascience.html\">Data Science Specialist</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Cori.html\">CORPORATE TRAINING</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Testimonials.html\">TESTIMONIALS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Our Trainers.html\">OUR TRAINERS&nbsp;</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Gallery.html\">GALLERY</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page10.html\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning-outline btn-warning\" href=\"Register.html\"><span class=\"mbri-edit mbr-iconfont mbr-iconfont-btn\"></span>REGISTER</a></li>",
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"TrainingOffering.html\" aria-expanded=\"true\" target=\"_blank\">AI &nbsp;COURSES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ArtificalIntelligence.html\" target=\"_blank\">Create Your Bot</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">Watson Specialist</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Python.html\">Python Programmer</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"MachineLearning.html\">ML Practitioner<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Datascience.html\">Data Science Specialist</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Cori.html\">CORPORATE TRAINING</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Testimonials.html\">TESTIMONIALS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Our Trainers.html\">OUR TRAINERS&nbsp;</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Gallery.html\">GALLERY</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page10.html\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning-outline btn-warning\" href=\"Register.html\"><span class=\"mbri-edit mbr-iconfont mbr-iconfont-btn\"></span>REGISTER</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -2477,43 +2494,47 @@
         {
           "_params": {
             "showTitle": true,
-            "showSubtitle": true,
-            "showImages": true,
+            "showSubtitle": false,
+            "showImages": false,
             "showName": true,
-            "showBio": true,
-            "count": 3,
+            "showBio": false,
+            "count": "4",
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/landscape2.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#fff",
+            "bgColor": "#0058a2",
             "overlay": false,
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title": "WHAT OUR FANTASTIC USERS SAY",
+          "title": "ABOUT TRAINERS&nbsp;",
           "subtitle": "Shape your future web project with sharp design and refine coded functions.",
           "testimonial": [
             {
-              "authorName": "Abanoub S.",
+              "authorName": "Anjan Kumar",
               "authorBio": "User",
-              "text": "<p>“its really very amazing app that makes me finish html page in 3 minutes ( that's usually takes more than 1 hours at least from me if i did it from scratch). i hope to have very big library and plugins for this APP thanks again for your nice application”</p>",
+              "text": "<p>“Is an IT Industry veteran with more than 2 decades of experience. Apart from long career @ Infosys, was with Robert Bosch, iGATE&nbsp;and Mphasis. He has played several key roles such as Delivery Manager, Engagement Manager, Business Head, and most recently as Strategic Accounts Head. Brings in his Digital (Corporate) experience, Industry Trends, expertise in Business etiquette, Effective Interview techniques. More importantly sound knowledge of Machine Learning and its practical leverage to solve Business critical issues.”</p>",
               "media": {
                 "image": {
-                  "src": "@THEME_PATH@/components/_images/face3.jpg",
+                  "src": "@PROJECT_PATH@/assets/images/anjan%20uncle-160x160.jpg",
                   "class": "img-circle",
                   "height": 160,
                   "width": 160,
-                  "active": true
+                  "active": true,
+                  "link": "",
+                  "alt": "",
+                  "title": "",
+                  "linkInNewWindow": false
                 }
               }
             },
             {
-              "authorName": "Suffian A.",
+              "authorName": "Prasanna R",
               "authorBio": "User",
-              "text": "<p>“First of all hands off to you guys for your effort and nice, super tool. Good work mobirise team. We are expecting the new version soon with advance functionality with full bootstrap design. Great effort and super UI experience with easy drag & drop with no time design bootstrap builder in present web design world.”</p>",
+              "text": "<p>“Is been in the Industry since 2001 and specialize in IT strategy, Innovation and was involved in developing innovative solutions (in AI, IBM BPM, Salesforce etc) for TCS. 16 years of IT career was spread across Service Delivery (IT Operations and Development), Test Strategy and Management, Vendor and IT Portfolio Management. More importantly has worked with Fortune 500 companies cut across Banking, Insurance and Professional Services Sectors. Idea (now an AI product) coined by him won Technology Excellence Award and is now in implementation phase @ a \" Big 4\" Professional Services firm. He contributes his rich knowledge of creating a Corporate Cognitive Assistant (Chatbots) and  also across various AI platforms (IBM WATSON, API.AI, LUIS etc).”</p>",
               "media": {
                 "image": {
                   "src": "@THEME_PATH@/components/_images/face1.jpg",
@@ -2525,9 +2546,23 @@
               }
             },
             {
-              "authorName": "Jhollman C.",
+              "authorName": "S Pragna",
               "authorBio": "User",
-              "text": "<p>“At first view, looks like a nice innovative tool, i like the great focus and time that was given to the responsive design, i also like the simple and clear drag and drop features. Give me more control over the object's properties and ill be using this tool for more serious projects. Regards.”</p>",
+              "text": "<p>“Machine Learning specialist and has carried out number of Training courses in Advanced Machine Learning and Data Science. In addition to training IT professionals and Graduates, he is ML Practitioner himself. Brings in his rich experience of Python and  choosing right Algorithms to solve real world problems.”</p>",
+              "media": {
+                "image": {
+                  "src": "@THEME_PATH@/components/_images/face2.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true
+                }
+              }
+            },
+            {
+              "authorName": "Lakshmi",
+              "authorBio": "Developer",
+              "text": "<p>“While Technology is at the heart of every solution, Customer Experience, User Experience and User Interface Design is key to design an effective AI product/Solution. Lakshmi with her expertise in this key facet, will guide the participants to create a Bot that possess rich User Experience.”</p>",
               "media": {
                 "image": {
                   "src": "@THEME_PATH@/components/_images/face2.jpg",
@@ -2543,7 +2578,20 @@
             "Theme"
           ],
           "_name": "testimonials1",
-          "_anchor": "testimonials1-23"
+          "_anchor": "testimonials1-23",
+          "_styles": {
+            ".card-block P": {
+              "font-family": "'Roboto Condensed', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700",
+              "font-size": "16px"
+            },
+            ".mbr-section-title": {
+              "color": "#ffffff"
+            },
+            ".card-footer > div": {
+              "color": "#ffffff"
+            }
+          }
         }
       ]
     },
@@ -2624,7 +2672,7 @@
             "fontColor": "#fac51c",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"TrainingOffering.html\" aria-expanded=\"false\" target=\"_blank\">AI &nbsp;COURSES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ArtificalIntelligence.html\" target=\"_blank\">Create Your Bot</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">Watson Specialist</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Python.html\">Python Programmer</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"MachineLearning.html\">ML Practitioner<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Datascience.html\">Data Science Specialist</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Cori.html\">CORPORATE TRAINING</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Testimonials.html\">TESTIMONIALS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Our Trainers.html\">OUR TRAINERS&nbsp;</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Gallery.html\">GALLERY</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page10.html\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning-outline btn-warning\" href=\"Register.html\"><span class=\"mbri-edit mbr-iconfont mbr-iconfont-btn\"></span>REGISTER</a></li>",
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"TrainingOffering.html\" aria-expanded=\"true\" target=\"_blank\">AI &nbsp;COURSES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ArtificalIntelligence.html\" target=\"_blank\">Create Your Bot</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">Watson Specialist</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Python.html\">Python Programmer</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"MachineLearning.html\">ML Practitioner<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Datascience.html\">Data Science Specialist</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Cori.html\">CORPORATE TRAINING</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Testimonials.html\">TESTIMONIALS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Our Trainers.html\">OUR TRAINERS&nbsp;</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Gallery.html\">GALLERY</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page10.html\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning-outline btn-warning\" href=\"Register.html\"><span class=\"mbri-edit mbr-iconfont mbr-iconfont-btn\"></span>REGISTER</a></li>",
           "logo": {
             "image": {
               "active": true,

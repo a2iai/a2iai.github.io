@@ -495,7 +495,7 @@ h6,
 }
 #menu-2 .link[aria-expanded="true"],
 #menu-2 .dropdown-item[aria-expanded="true"] {
-  color: #f36523!important;
+  color: null!important;
 }
 #slider-z H2 {
   text-align: center;
@@ -578,6 +578,8 @@ h6,
 }
 
 
+
+
 #menu-y .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -646,6 +648,10 @@ h6,
 }
 #form1-1l .mbr-section-title {
   color: #ffffff;
+  font-family: 'Roboto', sans-serif;
+}
+#form1-1l .btn {
+  font-family: 'Roboto', sans-serif;
 }
 
 
@@ -877,6 +883,8 @@ h6,
 
 
 
+
+
 #menu-u .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -944,12 +952,21 @@ h6,
 #msg-box8-1c p {
   color: #fff;
 }
+#msg-box8-1c .mbr-section-title {
+  font-family: 'Roboto Condensed', sans-serif;
+}
 #content7-1d DIV {
-  font-family: 'Lora', serif;
+  font-family: 'Roboto', sans-serif;
+  color: #ffffff;
+  text-align: center;
+}
+#buttons1-1e .btn {
+  font-family: 'Roboto', sans-serif;
 }
 #footer1-c P {
   font-family: 'Lora', serif;
 }
+
 
 
 
@@ -1021,12 +1038,18 @@ h6,
 #msg-box8-18 p {
   color: #fff;
 }
+#msg-box8-18 .mbr-section-title {
+  font-family: 'Roboto Condensed', sans-serif;
+}
 #content7-19 DIV {
-  font-family: 'Play', sans-serif;
+  font-family: 'Roboto', sans-serif;
+  text-align: center;
+  color: #ffffff;
 }
 #footer1-c P {
   font-family: 'Lora', serif;
 }
+
 
 
 
@@ -1102,7 +1125,12 @@ h6,
   color: #f7da64;
 }
 #content7-17 DIV {
-  font-family: 'Play', sans-serif;
+  font-family: 'Roboto', sans-serif;
+  color: #ffffff;
+  text-align: center;
+}
+#buttons1-m .btn {
+  font-family: 'Roboto', sans-serif;
 }
 #footer1-c P {
   font-family: 'Lora', serif;
@@ -1185,28 +1213,38 @@ h6,
   font-family: 'Lora', serif;
 }
 #content7-12 DIV {
-  font-family: 'Lora', serif;
+  font-family: 'Roboto', sans-serif;
+  text-align: center;
+  color: #ffffff;
 }
 #content7-12 P {
-  text-align: left;
-  font-family: 'Lora', serif;
+  text-align: center;
+  font-family: 'Roboto', sans-serif;
 }
 #footer1-c P {
   font-family: 'Lora', serif;
 }
 #buttons1-14 .btn {
-  font-family: 'Lora', serif;
+  font-family: 'Roboto', sans-serif;
 }
-#msg-box3-1w .mbr-section-title,
-#msg-box3-1w p {
-  color: #000;
-}
+
+
 
 
 
 #msg-box8-p .mbr-section-title,
 #msg-box8-p p {
   color: #fff;
+}
+#features3-n P {
+  color: #ffffff;
+  font-family: 'Roboto', sans-serif;
+}
+#features3-n H4 {
+  color: #ffffff;
+}
+#features3-n .btn {
+  font-family: 'Roboto', sans-serif;
 }
 #menu-2 .hide-buttons .nav-btn {
   display: none !important;
@@ -1277,6 +1315,7 @@ h6,
 
 
 
+
 #menu-1q .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -1342,6 +1381,16 @@ h6,
 }
 #footer1-1r P {
   font-family: 'Lora', serif;
+}
+#testimonials1-23 .card-block P {
+  font-family: 'Roboto Condensed', sans-serif;
+  font-size: 16px;
+}
+#testimonials1-23 .mbr-section-title {
+  color: #ffffff;
+}
+#testimonials1-23 .card-footer > div {
+  color: #ffffff;
 }
 
 
